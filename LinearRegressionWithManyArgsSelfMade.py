@@ -136,3 +136,4 @@ if __name__ == "__main__":
     for score in scores:
         output.write(str(score) + "\n")
         print(score)
+    output.close()

@@ -82,6 +82,7 @@ def for_many_args():
     for prediction in flats_predictions:
         output.write(str(prediction) + '\n')
         print(prediction)
+    output.close()
 
 
 if __name__ == "__main__":
