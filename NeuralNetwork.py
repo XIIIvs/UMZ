@@ -51,15 +51,15 @@ if __name__ == "__main__":
     scores_2 = model.predict(test_a_array)
 
     output_dev_0 = open(r'../dev-0/out.tsv', 'w')
-    for each in scores_1:
-        print(each)
-        output_dev_0.write(each + '\n')
+    for score in scores_1:
+        print(score)
+        output_dev_0.write(score + '\n')
     output_dev_0.write('e \n')
     output_dev_0.close()
 
     output_test_a = open(r'../test-A/out.tsv', 'w')
-    for each in scores_2:
-        print(each)
-        output_test_a.write(each + '\n')
+    for score in scores_2:
+        print(score)
+        output_test_a.write(score + '\n')
     output_test_a.write('e \n')
     output_test_a.close()
