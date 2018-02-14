@@ -29,17 +29,19 @@ def roll(goal, exacly=0):
         while tmp > 10:
             success -= 1
             tmp -= 10
+    diff = tmp
 
     return {
         "goal": goal,
         "success": success,
+        "diff": diff,
         "roll": rolled,
         "luck": luck,
         "fail": fail
     }
 
 
-if __name__ == "__main__":
+def test_rolls():
     print(roll(35, 100))
     print(roll(35, 99))
     print(roll(35, 98))
@@ -77,3 +79,37 @@ if __name__ == "__main__":
     print(roll(35, 3))
     print(roll(35, 2))
     print(roll(35, 1))
+
+
+def opposite_test(p1, p2):
+    p1_roll = roll(p1)
+    p2_roll = roll(p2)
+
+    print("P1", p1_roll)
+    print("P2", p2_roll)
+
+    p1s = p1_roll["success"]
+    p2s = p2_roll["success"]
+
+    if p1s == p2s:
+        print("DRAW")
+        return opposite_test(p1, p2)
+
+    if p1s > p2s:
+        return "P1", p1s - p2s
+    if p2s > p1s:
+        return "P2", p2s - p1s
+
+
+def test_opposite_tests():
+    print(opposite_test(30, 30))
+    print(opposite_test(20, 40))
+    print(opposite_test(10, 50))
+    print(opposite_test(50, 50))
+    print(opposite_test(40, 20))
+    print(opposite_test(50, 10))
+
+
+if __name__ == "__main__":
+    # test_rolls()
+    test_opposite_tests()
