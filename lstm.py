@@ -86,7 +86,9 @@ def on_epoch_end(epoch, logs):
             sys.stdout.flush()
         print()
 
+
 print_callback = LambdaCallback(on_epoch_end=on_epoch_end)
+
 
 model.fit(x, y,
           batch_size=128,
