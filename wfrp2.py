@@ -29,7 +29,7 @@ def roll(goal, exacly=0):
         while tmp > 10:
             success -= 1
             tmp -= 10
-    diff = tmp
+    diff = goal - rolled
 
     return {
         "goal": goal,
@@ -79,6 +79,7 @@ def test_rolls():
     print(roll(35, 3))
     print(roll(35, 2))
     print(roll(35, 1))
+    print(roll(36, 1))
 
 
 def opposite_test(p1, p2):
@@ -111,5 +112,5 @@ def test_opposite_tests():
 
 
 if __name__ == "__main__":
-    # test_rolls()
-    test_opposite_tests()
+    test_rolls()
+    # test_opposite_tests()
