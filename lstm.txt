@@ -4473,5 +4473,3 @@ staemi nie dżałże, czekną blaske,
 waptunni, z obotąd, to gdzicła królasem nie,
 trejbyckołarsła
 pałącie wyrszczy, takr
-
-137668/137668 [==============================] - 70s 506us/step - loss: 2.1802
