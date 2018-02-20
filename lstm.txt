@@ -1,0 +1,4477 @@
+﻿corpus length: 413042
+total chars: 65
+nb sequences: 137668
+vectorization
+build model a single LSTM
+
+==================================================
+ >> Epoch 1/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "tałowy
+(dostał go sędzia w darze od księ"
+-------------
+
+tałowy
+(dostał go sędzia w darze od księdza z wieli,
+nie się w kropie powiazy się w kolie szymała,
+je z wieli z wieli szystkie szkała się w krzyka,
+a kanie do przez wieli podziecza się z wieli
+i wielim z wieli z wieli z wieli powierzały,
+choć się z wieli na przystały się w krodzie,
+a tym z nie powieciał się z krodzie dziwie,
+z wieli z wieli na wieli z wieli z krodzie,
+pod rozmie z wieli się z wieli szlachta,
+szystkie się w krodzie powia
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "tałowy
+(dostał go sędzia w darze od księ"
+-------------
+
+tałowy
+(dostał go sędzia w darze od księdzym w powiały kole,
+czy na poworzy z krzyka pod przez garoka
+i nie słyszczym do trzecie czasek z grobika.
+przystoją się w nielem powiecie, o wieli.
+skarzy z róz panorzy szlachteli z wielimy,
+szylach z krodziałem się czół z rozzienia z krzyka,
+mo wszystko sam na brzechałem z mierza się korodziałem przykała.
+wielki się w bykarym z wieli z wiał nie bo panie
+i wszystko wieli dziwią z krzychce szkoli,
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "tałowy
+(dostał go sędzia w darze od księ"
+-------------
+
+tałowy
+(dostał go sędzia w darze od księdzach, do kłazowył.
+skuza, chlityli, mymej sru, winicyma jak onomuno;
+soporoche szalsta udwałym w więpiedcych;
+ili sędzia na razych kalera się ponią, glierzą;
+z dzieziże myśli rzecia.eliśli parny, że ktardyo,
+
+gadali gatywanka z radko tak szmilu,
+a by sak jegi na szlić obrócia, jedech
+po chcilem każdera po soboka, im mestę!ga z wierakie,
+czymał po piinkich, sztaczu zapiąc się u, no niesili,
+ny kut
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "tałowy
+(dostał go sędzia w darze od księ"
+-------------
+
+tałowy
+(dostał go sędzia w darze od księdy sturuja;
+ja .
+trzylaką sob w rymiśnio, tun chorącłoręsko 
+zdrowica umylia, astory bałni
+iadł ka
+niś kakiemo; do łakimią, tenemmie, słański.".
+.
+piekno ędrugy
+przyzęcząc, ganopiego wieślidym łapu -waczłsąz góa,
+gdy wuzlitul się, je znań sofna zadarzeju; gruku.
+wzażskło, żoje garzaów, zosrywać odwołą?
+to wybęty, z graźszy zdyno, tylemiąć poła,
+al prącz nachtów wybyinąży.
+
+pity "blimna pomuszai lu
+
+==================================================
+ >> Epoch 2/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "ieg, a po polsku umiem -
+ojczyzna! ja to"
+-------------
+
+ieg, a po polsku umiem -
+ojczyzna! ja to w przechodzi przy starze
+i wielkiem szlachtę nie wielkiem zarazy,
+przeciegł się w nie wielkiem szlachta się z tak zarazy,
+wielkie wielkiem zaraz się w nie wielimi,
+a koniecznie proszał się zakodził się w nie wielimierze
+i szlachta w nie wielkiem wieli zarazy,
+wielkie w pochodzi się zakonniej się w nie wielicha,
+przestawił się w kolem nie wielkiem się z kiedzie,
+wielkie wielkiem przy nie wielkie w
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "ieg, a po polsku umiem -
+ojczyzna! ja to"
+-------------
+
+ieg, a po polsku umiem -
+ojczyzna! ja to podalon mi z przez drugi
+i koniech grzech na na wielkiem sługo zak zaradził;
+przyszli w na powoli w pod buchach, probie.
+wyszło w krzyk nie kożych do przeciwnie nie wielkiem,
+zaczął się w kolem szelemiemiem obiechach,
+bracie wielki nie lecz między milczeli,
+odobuch kwiało się w wieli nie do słonie
+i trzecieli miachnie trzecz nie wieli,
+starze przyszli się szlachcąc zarazej wiadzieli,
+aż powidział
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "ieg, a po polsku umiem -
+ojczyzna! ja to"
+-------------
+
+ieg, a po polsku umiem -
+ojczyzna! ja to rzekł - zalemiusia? na rotszego,
+to nie chch kwiate zanie, ugrągnnie jeszcze stary!
+dwie ramał, a przebi przyd o nach naernega
+wszystko na terobkt obropnie przypanieł w zędry,
+na stranem kardem ciodwi, eprawiono zakogali
+i swej do szliczyżiło zrrała reszzy neszerzech!
+wyźnieżił mak kijał: "milksem szamojem crodził.
+chruchac kogcu dziedzież zakad jentuży,
+reszcie burz był wojski szluczan nole,
+a j
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "ieg, a po polsku umiem -
+ojczyzna! ja to"
+-------------
+
+ieg, a po polsku umiem -
+ojczyzna! ja to wieniemu, w grość orniemie
+wtrerz - rodania ościgniak pysach tak cnieki,
+że soplitąc dziepdocze, rozbywając, że zażąd.
+przytrzelem, wteż błonnic, ogłowe sy myślni,
+i swtawu, muchkilu zofortowami, żegołarskną,
+czeste kotk bez ęszantry parał z celiy.
+przetrze słannekliekomiębkordy:
+"na jeśli; szlachta kięznomi zaraćranfy,
+stoła pusłycie. kiterka, twąwski, tak żeraczę,
+kto świągą wymowam, milczniul 
+
+==================================================
+ >> Epoch 3/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "pny,
+stoją na szańcach pragi, na stosach"
+-------------
+
+pny,
+stoją na szańcach pragi, na stosach na dobrych się z pod koniec z cienie,
+o tem nie pod sopliców się nie pod koniec w komienie
+i koniec na koniec na stary się się w pod sędziego nie pod koniec z cienie
+i w kochać się do się się tak do się nie stały,
+który nie pod pod stary na niech do się szerokiem,
+o tem nie się nie pod teraz na koniec nie wiem się stanie
+i pod moża się z wielkie się nie pod moży
+i nie wielki po wielki się nie dom
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "pny,
+stoją na szańcach pragi, na stosach"
+-------------
+
+pny,
+stoją na szańcach pragi, na stosach z roku
+wykodanie nie do mierzał się wielkie się się szereki.
+
+postrzegła mieszczej wielkie potem pod kolek niebiałem,
+czy że nie pod stanie był za kończych się domenie.
+pan się konie do przed teraz na koniec na wielkie
+wszystkich nie cienie czecieli się z wożnasku,
+ten miecze i w wiecierza we szebie pod niebie
+i co nie pod domu wypierzano, w domu jakiem do sobie,
+tam wiesz oczy z tym koniec za ni
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "pny,
+stoją na szańcach pragi, na stosach"
+-------------
+
+pny,
+stoją na szańcach pragi, na stosach tadeuszy.
+po nibo dostał nielą nie bowo przed gaje
+proś podrobić słońca nawytowie wczęściem,
+bardotrewać siedine koło - chciąj z lisu czyli,
+niechan siędawie pojrzano rozmowych ryby
+tadeusz widział i ziało, zmiącz pół gadało.
+siepry z też zająż to goda". cernie, obli syrodziszeło,
+wylitem co dnig płot nie trawnkki wożę szwory powiedy;
+nie cichem nie się okobie sędzia nie się,
+popasyk, soda się po
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "pny,
+stoją na szańcach pragi, na stosach"
+-------------
+
+pny,
+stoją na szańcach pragi, na stosach kowił,
+pajnej oczuje, kwyszczkiźm: że ciasy:
+za będzie jak o, może, że różżymi z biega.
+a księciciść strawał jeklosnice, go widnie biewiska
+i nie mnegi robiego czotków!
+
+pustawomija słejcy, ną i pi, porokne,
+a birę z ę
+n w piebyk. sze romaep środenekę,
+i to gostorecna koty,
+z wolno arędza ujeżdze; i nogi corazz,
+i zą canę byszś or dobe; naczomywa.
+jego więżąc panowi gasłość z ówlejnora;
+to telu w
+
+==================================================
+ >> Epoch 4/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "ów kwita, już je skończyłem, zerwałem"
+-------------
+.
+"
+ów kwita, już je skończyłem, zerwałem".
+
+w tym się z powiedział się do pod dobrzyńskiem,
+a pan w kole się z kole powiedział, wszyscy się z kole,
+w kole się na szanowany się z niedobrzega
+i wszyscy podziwiały się z wielkiem, jak głowy,
+w stary na powieciał się z wielkieru się z kole,
+a pod stary się do wielkieru powiecie stary,
+i pod polach przy stary się strona za niedźwiedzie,
+pod niebie powiedział się z stary powiedział,
+i w podobny z
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "ów kwita, już je skończyłem, zerwałem"
+-------------
+.
+"
+ów kwita, już je skończyłem, zerwałem".
+
+takiczeno zrobił się z powieści w czasem,
+obów skrać na domym na koniec się w przyszał w przez niem,
+nawet mienisza i szyski zażeby urodzie
+i zażywał, przez daleka, a w jakiś skaka;
+który na wolny przez wielkieni, w kochanie,
+w stał się szyszkał u polucie w pomniciej się drzewie się z leci
+i koniec i zosia, jeszcze nie dwie wszyscy,
+kręcił, i zawołał się z noje była się się stary obliska
+i gaz st
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "ów kwita, już je skończyłem, zerwałem"
+-------------
+.
+"
+ów kwita, już je skończyłem, zerwałem".
+iadło się, tak do małoś ku ganiuć szlachtanę
+odjozy soplica swe błatne wi gam dziecibego 
+bełnorazym zdowęmi w malesznic świądze,
+inę pawne, a powiódzie regatnacz się z moskune,
+gdy szyjeli który laza, pasz ich tadeusz,
+idzie ryciazy i mogub:
+kształ punił siedziate się podkomszywają
+czyszą się przysządłi się oddwielczynkiem;
+marsza, mej państo, tak polem, naczych muzmy:
+kronne powolna hrabia dotyd
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "ów kwita, już je skończyłem, zerwałem"
+-------------
+.
+"
+ów kwita, już je skończyłem, zerwałem".
+
+s upłała szu somu dłuszym. dobrzyńskie drzazi!"
+podanno polic kłarko powiedzioża zd rólne,
+i orjaz ręki i sto na granie bożat ugórne
+zda hrobiasli tadeusz przesstałą kugaj?
+tak i scych po; czy służe dawnaś, dziesiach,
+poś
+i doroczawi:
+hrani i tak jak kopian kolotu bżogniekli?"
+
+ten muszyci teduszą ich wynocików,
+który wrzucy wies z potrawnąż się gołó śmi sładnął,
+mówią zlzek jegomę szlachtym: rze
+
+==================================================
+ >> Epoch 5/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "z haniebna; ale kto dobrze wymierzy,
+kto"
+-------------
+
+z haniebna; ale kto dobrze wymierzy,
+kto się na szkadzy się z wielmożny był się z stronnika,
+z wielkiej skrzywszy się z wielmożny przyciągł:
+"prawda, że przyszło i stronników do stary,
+po drogą się z wielkiej szczęściem przyszedł był przyszło był w dobra,
+starze się w drugiej się króżnych przy pod kropie
+i szczęśliwie stronników przyszło w pod sędzia,
+po droba się za przyjaciele w przycież,
+po przyszło wielkie, na kropie stronnik się w 
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "z haniebna; ale kto dobrze wymierzy,
+kto"
+-------------
+
+z haniebna; ale kto dobrze wymierzy,
+kto w obie się w stary mówiąc się do przebieży,
+tak skórę się się sędzia przycione swych odźbraja,
+stary dobra miejsca bronia jak dachej zdróży,
+a za niesie po tyj za wielkiej dla się złotą,
+zawsze w ciebie w pod blisszy, że chatu,
+odlewie, dobrzyńskie z mnie zamkony.
+
+szpida mu się księdzia nie wierzą drugie
+i w głowy, każdy się całą się, który i postrzeglął
+i po polskiej starze się zawsze w stary p
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "z haniebna; ale kto dobrze wymierzy,
+kto"
+-------------
+
+z haniebna; ale kto dobrze wymierzy,
+kto ty młodure się wezłakają wilnie dobru,
+a dla kurcutowików g ręku. - rucha na domu cięłe, straczem już okrzenę
+odyjąc w pcienych dąbla wstracionoorumene.
+wód zwierzał się , różych szlachta sóp złującę.
+wyście pędziów, jednej urzędymi; lubię w lisną;
+i nawyt wznasesa może sięczem wieumyny,
+niesątychoła, jeż om szysty"m wzgli; mistrwał,
+bogadła opierwarsty płych, "pan zkony na woch,
+po markwym będzi
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "z haniebna; ale kto dobrze wymierzy,
+kto"
+-------------
+
+z haniebna; ale kto dobrze wymierzy,
+kto niż zdże chora mo pierjańczyżewej dawoło,
+dydze sódwizaórruty, wrzpętoweźby,
+pan rywacha pazy; żechali ich, wspiosobkie,
+
+że lbdoszą jegry, i już blisnemi szczęściwy;
+dziechce wofią z gągnyli, malego wartu;
+nie glaś ręce posłysznie, żyd słu, kogośmie?
+chamisty. wojski: był kjąd tajna, tak leś hrabią.
+opręcza dżód ich w sito w testwa oblasów.
+stórbe wszystkik się obadza hoklu nankażę,
+szcząp wybow
+
+==================================================
+ >> Epoch 6/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "ś będzie!
+zakopać taki talent w lasach i"
+-------------
+
+ś będzie!
+zakopać taki talent w lasach i koniecki
+i za nie pod może się z pod zamku wiele
+i pod rozmienia w pod dobrzynie! -
+"nie wiedzieć w oble strach się w pod kropicze
+i wiele domu z pod szlachta strzelców z wiele
+i strzelców z wiecie przeszedł z kropiecie,
+pod stronach w pod domem w pole mogała
+przechwała się w pod może pod strachem,
+a nie wiedział w pod dobrzyniech z wiele
+i w pod stron ręce się z mogatem się strony
+i pod może się
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "ś będzie!
+zakopać taki talent w lasach i"
+-------------
+
+ś będzie!
+zakopać taki talent w lasach i bardzo w kilki,
+które z kilku skrzej sim w dwóch przed końcusz pograził.
+ciche pod białe się z niech szczęściem,
+co z drukie, co jeden mieciecki i podkomary
+i z nim więcej pod starz na biera się tuż oczy
+przyjazy, to mieszczał: "na kiedy sobie,
+drugi szczęścia po mówiły wiele szele,
+zakończyć wyszedł w powsze nad co śmiecić
+w mól puste szlachta na stare nie dziś wielszcze,
+zawierze postrzegli po 
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "ś będzie!
+zakopać taki talent w lasach i"
+-------------
+
+ś będzie!
+zakopać taki talent w lasach i pili.
+przypat dwie telomone spadki w do muprówne,
+wzięła trzepimię bez łow,
+wyłz w gę;r leśkiecienie księdze tząhorywa,
+bbegach postonoy nacki brykapni ceża
+widne neważa czelit nie panie kotrozy!
+bez zład o czem stary u brzemnorskim,
+po ziemi, mnie mu ktarce ato to rod do się,
+
+zakręcił, za czymutaciu bardzo rózeka,
+oprąwy w klęczc okienę zwracać wtęk spu rodciecki;
+rozprzy gójródźcią; co cudy wi
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "ś będzie!
+zakopać taki talent w lasach i"
+-------------
+
+ś będzie!
+zakopać taki talent w lasach i prysnęł,
+gdyż spóc samy aórca bez nieszetszeńsanz,
+a chce róży, takimior dwóruj, ksiądzki zemtazy!
+rócum pomiędzy szadł pomiędzy, prócie włóci.
+ja borazechniów skłodu drągi, przejrawi.
+zaą mówiłykę, jeżeli, nazesła osobił,
+choć niech, nic wudząny rzekratew jedaniejsro
+oswałki i kucha się kiuze;
+wspy! skrzydów tun zajocy, ędrzym tołu.
+lewro z niedźwiedzy lub mógł ryczama, bytadna
+potem niktu śromi
+
+==================================================
+ >> Epoch 7/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: " przeżyć długie lata,
+walcząc z ludźmi i"
+-------------
+
+ przeżyć długie lata,
+walcząc z ludźmi i stracie z powiecie,
+który się powiecić się z powiecie w polskim powiem,
+który się w powiecie powiecić w powiem,
+pod grania i pod tak się nie powiecie
+i powiecić się stronników z wielkiem powiem,
+pod starz z takich za nie pan wielki do nie wielki
+do nie za się powiecić się z powiadać,
+w koniec się z powiecie wielki z koniec i podkomorza
+wielkim po powiadać się w polskie z polskim powiem,
+po domowa
+
+=============
+----- diversity: 0.5
+----- Generating with seed: " przeżyć długie lata,
+walcząc z ludźmi i"
+-------------
+
+ przeżyć długie lata,
+walcząc z ludźmi i kręci powiecić się krami,
+po chrzciciel powiecił po krwiąc i zaszczeją,
+szmeta i czas w przeciwnie w dala w sędziego,
+nie wierzch po domowie po czają się z domu,
+jak nie był przechwał się w niebie z darniem,
+podkomorzy o tak widział, gdzie to zabiesicę
+ten strasznie pomiędzy z tej przyjać kiedy zabieszy
+dobra wyszła jak końcu godna było,
+talerzała i podobne w końcu starze skoczył,
+od takim szczeg
+
+=============
+----- diversity: 1.0
+----- Generating with seed: " przeżyć długie lata,
+walcząc z ludźmi i"
+-------------
+
+ przeżyć długie lata,
+walcząc z ludźmi i przejer grona zający,
+podstawię głunictwę gdy tębą jesec,
+wziążej. je tadeusz mojach, nieszalasz,
+pawy już woła włoże we wyczowił nie rawał
+sędzia musi, to się coraz sty na palczoraki,
+lecz gospierstwa okrój wasięć starni oto
+i robak - starzany zamięny przeszonając,
+z komackiem dlanimu, mach  u jeszczem niebierzycz,
+wszak z teli; za stronią budawu zaleśnie
+zosi dowolicie selby,
+i w patrzekują chr
+
+=============
+----- diversity: 1.2
+----- Generating with seed: " przeżyć długie lata,
+walcząc z ludźmi i"
+-------------
+
+ przeżyć długie lata,
+walcząc z ludźmi i cośli państwam środec,
+nie posobi - "zojąc, za tar"pś możesko z ryku
+ojąca nameżki- ; dromu szbiejsce,
+s w siebro stosieta, cóż w wzdoliwszy sąkanki
+taka powytach owoł wie, ale ze razeme.
+ów kilowa świadać z be tenu, pana ropachićle
+nudki forema, żen ciche się żałeść nie po juzidby
+i istop miasza drugim powsty- kim czekacie
+hastu pomawie, i cio ją podług i uchy farbica;
+będzie ciką zciekają okoj,
+
+==================================================
+ >> Epoch 8/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "knęły jak niedźwiedzie.
+
+a już deszcz wc"
+-------------
+
+knęły jak niedźwiedzie.
+
+a już deszcz wczynowanie się w szturze wiele
+i pod stała się na polany, pod koniec,
+pod stołością się strony do pod strzelał,
+jak w pod rozkazał w pod strwoga się pod domu,
+pod pod poluba do dworu się z pod polany
+i pod mój się z pod polubny pod wiele i pod strwogi,
+a wiele z polane w pod stołu pod polu.
+
+tadeusz pod strzelał go pod rozmawia wiele
+i koniec i pod stojąc w pod zamku pod strwogi,
+pod wiele strzelał
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "knęły jak niedźwiedzie.
+
+a już deszcz wc"
+-------------
+
+knęły jak niedźwiedzie.
+
+a już deszcz wciąg się od tym warzym z poli.
+
+puszcząc nie wiele z pod radzą ważnym podziele,
+które dziwi w stoje pod od rozkaz suwał wojny
+pod gościem był do była na polubanki myśle,
+i wiele w poladnie tadeusz nie dobrodzie.
+
+pod wiele na koniec w domu się była na swoichh;
+kiery wiele w liczej wiele kiędzy z dziewczyna!
+to jest pod kontuszych się od się stoną,
+jeśli tylko potem jak wypierze z pod powiedział,
+że
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "knęły jak niedźwiedzie.
+
+a już deszcz wc"
+-------------
+
+knęły jak niedźwiedzie.
+
+a już deszcz wczyzną i zruciły, lecz nikt stałonia,
+gerwazy się zaraz jak polady cymuby, świędziją
+drągi zaśniając domów bych tak porabina:
+od dziemkężę i przyjarż byna; krowa bsza z sobie
+i znicane: grzechą gerwowy wlat graniacha?
+ty ogam nugranne nie wymilkli miała gływarej,
+które na ogród dziewisuchowant ujenną
+obliczenie, jak sędzia i ktoż - i tam na buchodek,
+tuzy biesiadnął. jaż do starze stotwaczę.
+
+w wie
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "knęły jak niedźwiedzie.
+
+a już deszcz wc"
+-------------
+
+knęły jak niedźwiedzie.
+
+a już deszcz wczęsik, przecha tąd gosąpowiły,
+posadt strwą. się w ręcem, dną cężeśgo kośnie,
+pod ręca, leżyj częślnie jeśli!"
+"o m:byśny na to poznacie ! jęty żadnym pusowa,
+a pontróż me urzu.
+worze ze wywiąkeś-zynować sercu, po sto fruny.
+ar; bchodzinikorzycy, rzekłe; opuszcość śle,
+choć zwyślinościę panna drmód warowisz, jawdzieć,
+wiładz chłopiął: flatu, iż soplicą układa".
+"na owego go miaszynówołeju.
+go jabe
+
+==================================================
+ >> Epoch 9/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "rtwy jak opoka.
+tymczasem kurz na roli r"
+-------------
+
+rtwy jak opoka.
+tymczasem kurz na roli rozpokojniejszy,
+tam się w stoło zawierzał się z wojnie strony
+pod stoło w powiedziesz się z podobne się strony
+wystrzegła się z trobie w powiedzie z stało,
+podniósł w twarzy w powiedzie z pod minął się z milczenie
+i pod starz po trzymał był się z powieści,
+a w tej starz w powiedziesz powiedział w niebie strzelbakami.
+
+tadeusz po wojski przed podobne w tej stoła,
+starzy się w pod koniec z wojski w 
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "rtwy jak opoka.
+tymczasem kurz na roli r"
+-------------
+
+rtwy jak opoka.
+tymczasem kurz na roli rzekł się mam spodział;
+a więc z chlub szlifuli po wielkiej stary.
+
+gdy się z polskiem wojski z domu za spuszczy;
+stonął w mówie, tak za słową się w niebie,
+powstanie malować z też strony wznosi w podniesi
+i podkomorza w niedźwiedzie w domu zważa;
+jak do drugiej podzieścionu koniec się w domu
+do swej strwie jak dziewiszy wojski zamierzył:
+przy tak zebrany się trzenicznie się z biorami
+chwało obcośc
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "rtwy jak opoka.
+tymczasem kurz na roli r"
+-------------
+
+rtwy jak opoka.
+tymczasem kurz na roli razem; z łowę ognie,
+którowanów ogrośnienie bują podbigrzy!
+niesynadku; te skrami, ży przechodził,
+mam gamżę: moich".
+"na kuch liść i dobrychcem o las w niebyki
+pierś całowach okojeę w czu ń pojmów dóg 
+"wistrżąskęcza z takiej pimiątkapinujś mrounki,
+nie dagę miał wzorzat! co goście wądgi zmieszanie
+zawszych pomilęńuwi, to - tak ogrogności.
+
+to siędzył, brzeczgi robiep: - nic ru bławy,
+rozmywają ro
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "rtwy jak opoka.
+tymczasem kurz na roli r"
+-------------
+
+rtwy jak opoka.
+tymczasem kurz na roli raczy żyje równie,
+ynieźmi okawieście i tycha:
+jeter późiewski tak u i szczuła ciągley,
+lecz wielkieturmów badnę guz!"sów prawy chmuro!
+włzas zboba z taść niż gęstaańskich psichma,
+i rakaty kniątnik samał: "tyszaliw powiadczała;
+której ganić; widzą już bo kiedy dmoży, wiąściubi.
+pastej skórę z kaz dla stukach sędzić dawa! - z łonowa! -
+to wiesz przyjnya i drążka dusza,om okochniertenuy,
+z dano zue 
+
+==================================================
+ >> Epoch 10/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "e oddałam serce, oddam ci majątek,
+pójdę"
+-------------
+
+e oddałam serce, oddam ci majątek,
+pójdę, a potem za niebie pod dobrze,
+że nie nie wiecie pod dobrze, pod stoła,
+nie wiedział się szlachta w pod wielkie w podobie
+na polskiej pod szlachcicze pod dobrze,
+za niej podobie się z grabie pod pod wielkiej strony
+i w pod wielkiej za niej zagadzanie z konie
+i z takie pod zajazdaczne pod słońce skrzydło.
+
+wiedział, że na przecież w tej szczęście:
+"nie wieczóry w pod robak pod słońce pod źwierzani
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "e oddałam serce, oddam ci majątek,
+pójdę"
+-------------
+
+e oddałam serce, oddam ci majątek,
+pójdę szedł dziecinie w nim wszyscy wiele,
+tak był dobrzyńskim do tym wiecie czasowa,
+na gniewjacza z nim robak za przeprazać,
+podobie wszystkich pod dobrzynie, tak z podniepierzem;
+czy przed nim krzyknęli obabiła się powiecie.
+wie! wiedział, aż nie marze z jegrzeć wszystko,
+chce nie przed nie za niebie czas w powieciel,
+wie, że sami do sędzieku podniastwa,
+w kogo-ie, kochał się w podobne ku czasie.
+a 
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "e oddałam serce, oddam ci majątek,
+pójdę"
+-------------
+
+e oddałam serce, oddam ci majątek,
+pójdę, że wzrudzić klećczyr, i jest nie oczy!
+iści znikowej, odreswego przegórwszy sinę!
+posiło: dobrzegi jegomorzemu,
+z wojski było, nad lusietem; spodtą.
+
+trzemiże, że wierszał, pirkany, rzucić ja w ywactości;
+leciwy podnos szezbyka dojęcie? dobrzy!
+selcena drzeć ci, mnę
+i w przetróż bez dziozim nie wkrynie potadzem,
+a wieczórając będrycień go, miałobywina.
+mając się najwyprzeczeli iwszesz nie gniech
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "e oddałam serce, oddam ci majątek,
+pójdę"
+-------------
+
+e oddałam serce, oddam ci majątek,
+pójdęc roż rozmem ppt: wiatry zarzukijoni,
+których cilce ostrodzi, szrać ez chrzy;
+lecz piers"? potadeż i ennie, leci, po cicha,
+coż nanew, a wspaniono; wdzi szlachcie;
+czy wycy wujnych pelsamać mierześ przedwiewa.
+"me opuszce, trzyczy do dziarzmadzałą,
+czarnym pwuzytiela , głównych zaśroność -
+taknośem, czeka: pyłarzem wsóddu drzejaniu.
+wosby wrdodalo zwyczajny!"
+
+miezaszy 
+na kazał zateckieklem spójr
+
+==================================================
+ >> Epoch 11/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "bojętnie
+(widać było, że słuchał rozmowy"
+-------------
+
+bojętnie
+(widać było, że słuchał rozmowy starze rozpadki,
+a ten powiedział! to przecież ten pod konie
+i pod pod zamku pod stronę z wielkiej strony,
+a wielkiej starze w pod milcząc za niej wielkiej strony
+i wielkiej za niej pod zamku na pokolica
+i w powiecie strzecić, a pan się z dobrzyniki,
+a wielkiej w stronę podnieście w powiecie
+w powiecie stał się w powiecie starze za niebie,
+wielkiej starze pod robak w przy niebie,
+na powiecie strz
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "bojętnie
+(widać było, że słuchał rozmowy"
+-------------
+
+bojętnie
+(widać było, że słuchał rozmowy zielonem,
+a za nie z przy pod wolna w wielkich zakogotem
+przy niebie strzecić się w rokaziony,
+a to w polskie powiec, od brzegu był z poku w karabiny,
+podniósł za nim jest pierś maty się z skrzydła za niebu,
+potem wszystkie go malom to czarne się na rzeczkiem;
+nieraz panu starze szaluszy do daleka;
+chcąc jest na szemnie z starz postrzegane,
+na panu na koniec strzecił na koniec w czasu
+i za nim w 
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "bojętnie
+(widać było, że słuchał rozmowy"
+-------------
+
+bojętnie
+(widać było, że słuchał rozmowy wołoście!
+woło przecież już kręcił się, helbrzygnorze,
+ale tam różga krzyknię, jako kometał;
+wciąż, pod podój muszkiej niesod pobierał".
+"jeszcze pośrodkimi chetrzyństwom roczem.
+"na mamże może w straszegu, klepłego źwierciąja.
+
+prawo ąszpiora nie tymczasem wodej wtenczęstony
+nad ręka przynach jedle domu ostatte slcze
+a dowodko szedł - stara patrząc długie.
+bytetnie, bak trzybe kręcił niesłana!
+s
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "bojętnie
+(widać było, że słuchał rozmowy"
+-------------
+
+bojętnie
+(widać było, że słuchał rozmowym! zyło, za plech,
+jederów wozłara!" wzbieroczegd zrobywy!
+ujrębiki, jesteś dałem jakiemiszą, pozbyty;
+dawniej tumnych, cóż swej niebior gini źle chrewywci.
+tym byjarze, wde, że żyle z jardzieć
+powoli, gernążej ribie złoni, te strycham wyrucinili z dobrzyni,
+mająę wołę się "ejar! temnet z pasie.
+zieni na podnięstt kiedy bawnych wiosła,
+ustawy"; "nutkiem; skakbą wyradł ich roślinh,
+i cóc dla cioski
+
+==================================================
+ >> Epoch 12/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "pachnącymi ziołki,
+geranium, lewkonija, "
+-------------
+
+pachnącymi ziołki,
+geranium, lewkonija, że nie wielkiem się z długiem zakrawił,
+a wielkie strzelbie zabrała się za pokoli,
+nie słuchał z wolna za pokojnie wystrzelał,
+że się w powiecie za nim szlachtę za nim z kropięki.
+
+"teraz w powiecie w pokojona wielkiem strzelbaka;
+wielkim zakręcił się z wielkiem strzelbakiem,
+strzelbła się strzelbi się za strzelbakiem,
+pod wolna z wolna zwierzał się z wielkiem, pod strzelbłkami się w pokoje,
+jest 
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "pachnącymi ziołki,
+geranium, lewkonija, "
+-------------
+
+pachnącymi ziołki,
+geranium, lewkonija, okoł ciągnieć z pańskich wiele,
+który z przed miała na stroną do tym bronia
+postrzegli się w przecież z wolna z wiekom obrosiony.
+nie miał się jest tak wielkie skradają szlachcie,
+że i nie wie, ale po mawiał w twarzym się postrzegło.
+
+on wielkiem i krzyk w pod łoskiem stronę na moskiewik.
+jak nie bez strwo się otwardym z siebie,
+potem z kończą się na koń poziewani,
+i potem zawierzał w nie biega si
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "pachnącymi ziołki,
+geranium, lewkonija, "
+-------------
+
+pachnącymi ziołki,
+geranium, lewkonija, o inna się ze strzelbłki i t w ,
+rozjenowicz na mnie młodzież!"
+razem stronę ipukając z dworze tam wiosny
+domem wpadł mośki; z was krędzie księkiem,
+swym ruszej zocnę!o do stąpę brznij zenratem.
+bracie po nas wyrosną szlichole? ku grotadyk,
+każdyszczą, co tym pańsko
+głuknie musztu liścią nagże się szteru.
+a się jeszcze wypigł, że śmiał i dozwanie
+zachów przaskieś i rzekł - dobrzyńskie, ledziem,
+iś
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "pachnącymi ziołki,
+geranium, lewkonija, "
+-------------
+
+pachnącymi ziołki,
+geranium, lewkonija, że klewiała , kański..
+lecz 
+"ramopienów chłopą zielone jako za pręki".
+"schyla strzydach, zamkicie picyzpluskwem
+kannie znawdziano; znakoni sięsda dorazy
+i znianierzeń ustaznie, chwój, jakiepja,
+caże dobro: a? cobak na ziemiegi rzędem,
+oddasów objawi: kie kirsekawonę czynie
+jenerał wiąć jednej myślę po co rożką dziwach gązaliwy;
+owrzywać no, cód kadają: biągło głosza wyć".
+
+"w pokojów się miecieg
+
+==================================================
+ >> Epoch 13/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "sną, zaledwo widome,
+i chociaż brzęczą, "
+-------------
+
+sną, zaledwo widome,
+i chociaż brzęczą, jakby się z grzybami,
+pod dawno z postawił się się zaraz się z głowy,
+postawony przysięścią się z poluje się zaczęfiła,
+słuchał się z niem powstało się z gary z postawił,
+potem zaszedł z postawił się z pokojniej,
+jak wielkie strony się z postawił się z konie".
+
+tak za niebie stary się z drugiej strony
+i szczugolskich, pod domu koniec mamu,
+starzy potrzeba powstało się z gradzie się z grzybować,
+za
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "sną, zaledwo widome,
+i chociaż brzęczą, "
+-------------
+
+sną, zaledwo widome,
+i chociaż brzęczą, oby dobrzyńscy złata,
+maległosi się z domu szlachecki stoją się skłonił.
+
+więc wypitki w strzelców dobrzyńskie dwa szerzał z rózki -
+zawołczył się częślowe wolności pan nasiedział.
+nas wyszedł milcząc się na stary z krzyk uczcie dobrzyńskiej postala,
+stojąc na stary potrzeba się z wolności się z pole;
+serce z grzędziej się z wyśledztwa sędziego,
+marawy wdziękować, podam zaraz się konie
+i marno dob
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "sną, zaledwo widome,
+i chociaż brzęczą, "
+-------------
+
+sną, zaledwo widome,
+i chociaż brzęczą, miejsce wszystkim ob gościna.
+no duchamów swej urównym branę nowy ty lalego ale,
+rozkiercił graba i pochodkich trzeba opiesz,
+nie sam grzybotami; budzi słońce niebiegłany,
+za sądłę pokoję, powstanie meszta, choć ziemi.
+gatę słyszaną się potwał słuchał, odmiennym
+pisiel na wieksz chlugt wola naświęscaowi.
+
+"zwróciło zbiegł się; ci miły wojskiem soplucka.
+biegączą; już jak gard tam mógło zmieżczyła;
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "sną, zaledwo widome,
+i chociaż brzęczą, "
+-------------
+
+sną, zaledwo widome,
+i chociaż brzęczą, maepwalny, zażelka,
+karabę kaulicze;
+geżymą, bez stroniedźch, siy; monynem.
+wszystkich, i to szczubę: słysząc z klasowyie:
+po ęczona, bieży się weszłi u rozmuc
+z garsi, trzy grubie szczęścem, ale soki,
+pod damnej trzyste i posłanienie
+z mobuby, jaskój zwróczni tylko latry każdy,zgotetów z bobiał w sobie
+i słumem gra
+dow obraconyste
+stręmnych!"
+"myśle szlachacze czegkści sięby jam z ksztadle -
+na n
+
+==================================================
+ >> Epoch 14/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "złoży na siodle lub pod końską szyję,
+ni"
+-------------
+
+złoży na siodle lub pod końską szyję,
+nie pod poduma się pod starem nie szczęściu,
+po starze szlachty się z pole starze pod podobnie z konie".
+
+tak pod pod dobra pod końcu trzymał się stronę z pole,
+ale to przy podobne po polskiej stronę,
+a na dobrzyńskie szczęściem, w powiedzieć poznał się z miesiał,
+że w się po szlachty powiedzieć się z lewe,
+jest woło, że w powiedzieć z niem zaczyna.
+
+ten by się w stoła się w powiedzieć z moskalów,
+p
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "złoży na siodle lub pod końską szyję,
+ni"
+-------------
+
+złoży na siodle lub pod końską szyję,
+nie zachów pod niem stare słowa się szlachcico
+maja z ryku z kompontwej był szarami obrógnować,
+a ręka na świecie jeszcze straszło z kolej,
+chciałem szlachtę budziej przybrał się porządki;
+znak i rozkrodził z polowanie, a ręką stronam,
+że po polskie, i lecz starzek przez goście,
+gdy nie nie chcieli i obliczy się stały się w lasem;
+chciałem pod bogaty stronami nie mierził,
+gdy połował duch wielkim ni
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "złoży na siodle lub pod końską szyję,
+ni"
+-------------
+
+złoży na siodle lub pod końską szyję,
+nieje ich protrzące, zjeglę głupik!
+sogli i dzieciu i szlachta spalery!"
+
+na się wyszedłszka, bo tasie; lewkiej niebie!
+pięścił na botwym więc ich uszy nazążyć?"
+
+a pozwiwiać, sław z dłonie u pąszczym rzecz prowa,
+że się ramienictą. sercuch; a grub ów -
+rzekł nieczek, lecz tam na twej obyk dzieli;
+zaw czarnego ciekawa;
+jakby gnieźć do zamięk mę się ani słowne
+i schyciła chydzę; pośród na kochan,
+mła
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "złoży na siodle lub pod końską szyję,
+ni"
+-------------
+
+złoży na siodle lub pod końską szyję,
+ni byno abyś domu odmawień ich "naśdziesia"
+pożąb ; fjardzo się!" całtej sakojbarkimi.
+lub miwej tych przebędzi bieglić; po patrzęchu;
+zbrawa obnybliatems podechtych, przy dozwaliwkanie?
+załapenków szyk staną huśrem,
+drugie peznówił? już nierwiami wpierze obrócić,
+ale więc chowa dawniczyć lubicę, że progi
+drusek domu ń kanpęcitrtętac! dobr, ujarye:
+tzyendruczny jakby nam cija czaski,
+na tębą sumy st
+
+==================================================
+ >> Epoch 15/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "bić.
+serwis, potem zabrany czasu wojny s"
+-------------
+
+bić.
+serwis, potem zabrany czasu wojny się w niebiegi,
+wszystkich w pomiędzy nie potem za nim skrzypieństwo,
+pod domowa się w koniec za nim pod takiem,
+że w niebie stron rozmawiać się tak za nim powiedział,
+że nie wierz się w powiecie powiecie na pole;
+jak w szarony szeregi, co się na niebie za nim przed bramienie.
+jeden szeregi do siebie szlachta się z pole
+i robak małość z poli przeciwniej zapata,
+jak w powiecie strzelbów za nim do st
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "bić.
+serwis, potem zabrany czasu wojny s"
+-------------
+
+bić.
+serwis, potem zabrany czasu wojny soplicy,
+ale za pierwszy się po się stryja moskali,
+że na soplicowa, jak w wielkie skończyć się z składa
+powiedział, że dostawistem się w obie się stronę
+i na niem starowanka, co na potrzeb do szablę,
+nie mierzyjąc tak się szterzył królewicze;
+przepraszać koniec stary miejska z drugi
+przez głowy szlachta się od pana hrabia,
+rząd się to wielkie wolna w jedno zaszedł,
+bo za nim strzelbów do starza mo
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "bić.
+serwis, potem zabrany czasu wojny s"
+-------------
+
+bić.
+serwis, potem zabrany czasu wojny sztadzo:
+przekomnej można, było niesłożsi rurę odszemiłem,
+było; na tem mają szgórył - rozskomorlicę;
+zawierz rąk z nim i tak powróciele,
+nie dżę na głową zagrąży pierwartych,
+pszołę, tam wrzeczkim z mabierzemem kosapie,
+siebie nany i punom, daę do stanaje 
+hrabia krzyknieli się, podska wogło ducha
+jak między gwierz zabierać aż wymięków przeczań,
+gdy z komierz i też trafąc namieckiąc boże,
+był prog
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "bić.
+serwis, potem zabrany czasu wojny s"
+-------------
+
+bić.
+serwis, potem zabrany czasu wojny sędziéż,
+zrobić, c woziów cogały dajderogu z w zapali;
+choć nimpół robiny udurowy, pana pos
+podjał grzęcą, ś na krwych troh, wznoku skłody, u cawy;
+taków 
+gródki nad roje czowa w noów mnie za dni żkniek.
+potem, co panewski; ta; mówiteśli ptakię:
+poyceńnię; wywarła - czas, machiela! teraz broni;
+umiło, ten przez wszykł opcówy tulały błotuszęcy..
+jedenę ich, w się idyma z tadeusza
+w nupisić nieni. by
+
+==================================================
+ >> Epoch 16/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "yli się z młodu;
+było dość majętniejszyc"
+-------------
+
+yli się z młodu;
+było dość majętniejszych zabież się z przeciwne stary,
+z polu się w domu powietrze z drugiej pod polskie stranił,
+a wielkie szlachta powiedzfa z polskie pod domu,
+pod domu pod rokował się z powiecie w pole;
+może pod domu w polskie pod domu wolna w pole.
+jestem strzelbu pod domu w polskie był to biega,
+zaczyna rozpierzczał i stawiał w polskie się w powiecie
+i powiedzfa się od stranił się z domu,
+nie słuchał się w szai po
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "yli się z młodu;
+było dość majętniejszyc"
+-------------
+
+yli się z młodu;
+było dość majętniejszych telimena się powiedział,
+moskali rozgarcić mię tak pod soplicowie?
+może się po dawnach z słońca szeregi, przed koniach zaś mody z panów,
+z budzi czas chłopskich wiatru to polskiem rozkolek szlachty miała z konia,
+gdy w kolej nie choć między od radzieniem,
+tak dziewczynem, z moczano stawie zapiała,
+bo z wielkie mogą zbyczył się na murawy,
+już bez się po panów od powrodzie moży;
+szerzeć z tego ksi
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "yli się z młodu;
+było dość majętniejszyc"
+-------------
+
+yli się z młodu;
+było dość majętniejszych się z wąsami,
+zaczem jak równać świeżo trąc hąbarko u
+a jej drążki i nie wciennych: krew telimeny głowy
+rozpożonejnyrdyku nie żył o nim młodzi z dąbrowicem,
+już panien jak bikiż nie ścięta zbojach woje,
+sam wzgląszli dobychują, nie zamy skiem,
+zdądł namielem w wechouki jestem hustał;
+mogałą. już to poszykałca wykładać, kropinnęł,
+zakrajemieźmi nagryżają droba na spójrznia,
+talerzu soplica: to po
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "yli się z młodu;
+było dość majętniejszyc"
+-------------
+
+yli się z młodu;
+było dość majętniejszych
+zapacie: nikt gdyby, okręcie poznanęła
+bodz ruranie: "grzeż, lewicę; czy rwów krzycział;
+to dalej zaczów sznurskich pastkól? mu asesor za łusowy,
+już tonowa ś, atyżaś i dnu rząd pod
+wolne żelaz dóbr móg,
+lewczymac-z
+i miałew moidry;
+co będziem warzączym się kogwanej skrzyki.
+
+"pan w panu, śledztwa mowiał - bo niż jak mieżce
+była, w padną toją szlachtę wcóż klasnęły
+duches robak, wyłał rzucon sta
+
+==================================================
+ >> Epoch 17/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: " rozmów: więc szepcąc, tak zbliżył się d"
+-------------
+
+ rozmów: więc szepcąc, tak zbliżył się do polskiej zamyślnie,
+pod zamku! już nie powiedział się w pokoła,
+podniesiąt po wieczerz powiadał się z gorna,
+na strobie mieszczanka, że przy polsku podzienia,
+i wiedział w powiedział, że przed niem, pod domem z polskiej potok za niem,
+ale majorstwie powiedział, że jest wódkę,
+podział na koniec w powiecie pod domem,
+i wiedziała z wiekiem nie zawsze powoli
+i powiedział i czerniejszy się z potrzyma
+
+=============
+----- diversity: 0.5
+----- Generating with seed: " rozmów: więc szepcąc, tak zbliżył się d"
+-------------
+
+ rozmów: więc szepcąc, tak zbliżył się dostany,
+znajdzie te pod zamkody i na jak pośleże,
+jednego nie zbradając przed stare z zaraz,
+jak z dalekam, czepistrze i zwiedzy konszłuchrawi,
+nie mu z złota z podnież wielkie w powiedzieć,
+znajdzie, że miał przy pomniczne do drzwiej obrzęda,
+wyszedł z grzędy czasu było żywieniu,
+choć moskali, a na straczone się w niebiony.
+wiedzy dziś małem zadziwienie na kolej na zapata
+po szlachcicy, że jest b
+
+=============
+----- diversity: 1.0
+----- Generating with seed: " rozmów: więc szepcąc, tak zbliżył się d"
+-------------
+
+ rozmów: więc szepcąc, tak zbliżył się dmać nie zradził jak skarbiesi,
+łotu wypowię, chab: to pytajki był,
+na palcem więść od muszka, z pówno wach nierobu.
+
+ale a niech i bez djaów, z tyłu gojech,
+lecz batonzałem, jak żywą usadzków zizysz,
+bo z czyśliem, widzi, powiedział trzymał do strójki ostatny;
+w gerwazy porzeków mieszczy, kobiezu, chwące konież,
+proste ortem zaszukał, że już chwiazdzatę
+pierwsze, a? żyje no zimicę,
+starzy!ył strze
+
+=============
+----- diversity: 1.2
+----- Generating with seed: " rozmów: więc szepcąc, tak zbliżył się d"
+-------------
+
+ rozmów: więc szepcąc, tak zbliżył się domeki
+trwaźnz o achemż a do boż? - ta, i karek mejszki
+dziedzicy, że tetne domowy komenrałę.
+ś pynnę, czyliem, jeeg ściknę naprasnem,
+znak nie zdzienia ubrzektnę? darto poddaję!
+pewt rostło i ne.czeb! - - wmrzek, gdy i jużce padną
+zrząd umkuły pamiętackie, nosią szkęów siwe.
+zróciny kniechce, może, tylko iaropom gradziwy;
+na świeczę drążeszo, to moja wy.
+o to gniepcę; 
+podrzymanoach zakrowie gadki
+
+==================================================
+ >> Epoch 18/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "ekować; czekaj waść, czasu jeszcze dosyć"
+-------------
+
+ekować; czekaj waść, czasu jeszcze dosyć wiele
+i z nim w nim wszystkie się w szczęściem powiedział,
+że na strzelców od siebie strzelców do słońcem,
+a wielkim miejscu siebie szczwachu szlachcie powiedział się z przeczucie,
+przecież z wychodził; wszczęka się w powiedział się do siebie,
+i za nim spóźnił się w powiedział się w przed strony zabrał.
+
+"miał na strzelców do domu szlachcicowie.
+więc w szczęściem się i zabił się na starze na powi
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "ekować; czekaj waść, czasu jeszcze dosyć"
+-------------
+
+ekować; czekaj waść, czasu jeszcze dosyćwier".
+
+"nie zadobę wyrzecz się dobrzyńskie, szlachcica,
+wszystkie wszyscy, pod białe zaraz się z pania
+teraz do co telimena szlachecki wojnie
+nie poszli do skrzydł się nie był to i komory
+przy stał się, dziś powiedział dobre się w drzewa,
+przy był komu przemnią się z buchmanie na poli,
+a wiatr wystrzebł się na brzemie powiedzieć.
+w całą się jak zaczął w panie moskala.
+
+w przebitem stał na sametk,
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "ekować; czekaj waść, czasu jeszcze dosyć"
+-------------
+
+ekować; czekaj waść, czasu jeszcze dosyć,
+milczkie przy czy na lewieste wroższa mośnie.
+
+godział w gerwazy podkomorzej jegi obraz,
+jestem trzymą je, zrzecz na nopką skrzydły nabie,
+i lecz cirwu rumienił skór: kutom ruchych zaran,
+i mówił cugu w dęguny, sążniku i zabawił.
+dowurtam; jest upadł na czeuszem tydziągną.
+on prócz ctu przyledowić i w całach częki
+odąkrysstro; już powstał tak; że krzyk jankierka, ropinie bieba,
+dawno się, buszę 
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "ekować; czekaj waść, czasu jeszcze dosyć"
+-------------
+
+ekować; czekaj waść, czasu jeszcze dosyćwiorstwa;
+postawą, 
+htarkle, i a żywo ą kiesząc noże 
+że rzędy kurznik włokupelo
+drukie przymsze ochmisżył i dukamimy;
+dzleszanę wios pisłem nie ksęde sobą kusaeni.
+
+leniane, chał czrejcami wcieśnie się na kiwał,
+tadeuszku pisy barzeny go nas odjazię.
+nskużej śleznicz nidź iedzł w koście nawaszcurasze;
+na kamałujo ą pamienu ów, szłegom nowym swę towarzy.
+tam zbrać marodniey, usły, obojów, skiżdzie
+
+==================================================
+ >> Epoch 19/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "i wtenczas jeszcze oko zwróć do tej koka"
+-------------
+
+i wtenczas jeszcze oko zwróć do tej kokami,
+bo to mojem, w szarach pod starem słuchał,
+a na koniec w polskie pod domowy się na pod domowy,
+pod domowa i szczerz pod domowy za niemu
+i stare się w starz się z mowy w konie
+i w koniec za nim pod domowy pod starem czasem,
+jest wielkie stał się w polskie na konie
+i pod miejsca w polskie pod wolna wyprawił
+i krzyknęli: "niech bieży, że się w polatrowił się w pole,
+jak w tyszczał się z długie si
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "i wtenczas jeszcze oko zwróć do tej koka"
+-------------
+
+i wtenczas jeszcze oko zwróć do tej kokami,
+jak w to mojejstwa w podróżność na konie.
+co chyba się, była wystrzecha, który,
+wydobył na wypierze, którą na koniecki;
+wszyscy w dawnach pod konopienie oniowi
+i szale; jak to do strony się w przyjąć do panie
+i sprawie słysząc obie pod stoła - alewiwa,
+a więcej szereg się jak szanunów pod zabowił,
+czy nie było wielkie wszystko kwiate
+i widział na drogie nie zaś na domowił.
+cicho wyrzekła przy 
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "i wtenczas jeszcze oko zwróć do tej koka"
+-------------
+
+i wtenczas jeszcze oko zwróć do tej kokam
+dośrosne i szlacheckim swoje druj nas zimie.
+
+lecz zdomienie jest chocia: "nową ją gęsw spod rozyłskie
+amytały, najwypał w pozwoli, młodzenie
+i żywał się ucz żennaj się ran, gdzie.
+
+to roczył ich wszystkość i oda stawił.
+jak po rapiertwaj nie zawsze darant śchata.
+
+wkłoęc z rozartę rąca! traw bliskne za litwy".
+ jak to leśniatkiej rozkaczy wysiadła,
+pan pośród lewał bezerwek wyco stał rawióri,
+k
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "i wtenczas jeszcze oko zwróć do tej koka"
+-------------
+
+i wtenczas jeszcze oko zwróć do tej kokać,
+na za; zzrozczała, jokrej astrożnyący,
+pprąż bletastów ostrzy nadad stał bodługo
+puszcza czasów oczy w robak, śmianow izwali,
+spotowowi trńchcią wypłuśce nie zatkący.
+
+złowi i niegdy maronała,za,
+nieucobaszy postrzel przyawszy śwenstwem.
+właśnie naddpanych, co się rzekli: "kiluzawany
+już zazałów chrzcił zwieśnie między do rzekli.
+przyczonął wupdału, mieczać uciezłe aldzie .
+łuba! z drugie; hono
+
+==================================================
+ >> Epoch 20/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: " tygodnie do kozy.
+zabawiła nas cały wie"
+-------------
+
+ tygodnie do kozy.
+zabawiła nas cały wielki szlachta pod konie
+i na koniec strzelby przed podpowiedziem,
+a na przecież z składając się strzelców zamieszał,
+a na straszył się strzelby się za niebiora
+za niedźwiedzie pod strasznie z pole, za postrzegi,
+a wiem, że przecież się za niedźwiedziem,
+a tak przed szlachta szlachta na przecież w przecież, nie wiem, strzelała się w pokoje,
+przed strasznie na pole nie było się w pole,
+a na strzelby 
+
+=============
+----- diversity: 0.5
+----- Generating with seed: " tygodnie do kozy.
+zabawiła nas cały wie"
+-------------
+
+ tygodnie do kozy.
+zabawiła nas cały wielkim pod pali,
+a szlachta gości, mają przeszłość za pokobie
+i przebracie się przeszła porty szlachta,
+ten przy gością się za przeciwnie gromadzi,
+że nie wiem, że tem jak przecieżki starce,
+postrzega, oni się na wielki kochał, dawniej powiecie,
+oczy i za krzyknęli stronach pod niebiegu,
+z domu i zamknął, gadast wyrządziestu,
+przechodził z sercu szkołuje z wielki zamierszany,
+i dobrzyńskiej potem ot
+
+=============
+----- diversity: 1.0
+----- Generating with seed: " tygodnie do kozy.
+zabawiła nas cały wie"
+-------------
+
+ tygodnie do kozy.
+zabawiła nas cały wielkomne niech cicho,
+po lekana kłyniło, na w wielki gościół jaśnie w stołkanek nan broni,
+lewkiej powtórzał nikt i od scyzoryk,
+które w u kaptu jedwnie starszy, gdy rozmowe mieszał;
+na niedeimich, strucho, jeneraąc niebradzie,
+a tana, koniłał sięć ten odstknetk,
+i wolnie bagno złołi, aż og, każdy prowa,
+a a błyskawo oby jego pomiące stała,
+moskich, z swobi siedzą, popiękny za słuma
+dojstynków cały 
+
+=============
+----- diversity: 1.2
+----- Generating with seed: " tygodnie do kozy.
+zabawiła nas cały wie"
+-------------
+
+ tygodnie do kozy.
+zabawiła nas cały wieczerowie;
+mężców świecó meni, ą ernewkę sękę powie,
+że jestą to zachogkielali - rzekł na kmierszcza
+uszyskdzy okośdyc u joże, graszę strzelba,
+lubraca kławić? - dziodasta wiszczali.
+gdy nie upanając , onczódciem gdy mula
+dach wielkie, idzie seka z do prucie,
+za, dom prowadzał oba sztwieś po dźwirki:.wśbią:
+zwaścienie już rózbia, taki wołi; mych, i to rzucał,
+a strzelbłekami głowa konscz chadź strą
+
+==================================================
+ >> Epoch 21/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "ię jako szczupak, gdy się w piasku rzuca"
+-------------
+
+ię jako szczupak, gdy się w piasku rzuca.
+jestera się z wielki szeroko się w sztuktów się w przeciwnika się z gęsta, w politam się w przeciwnika się z drugiego się z drugiego pod szarany;
+widać przychodził się pod szeroną się w niebie się z drugiego pod miejskie w sztuczny,
+zaszedł się w powiecienie się nie była wielki, stała,
+zamierza się w przecież tam się do szanu,
+pod zamku z domu dziedzinie pod dobrze,
+jak w powiecieny się w polski
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "ię jako szczupak, gdy się w piasku rzuca"
+-------------
+
+ię jako szczupak, gdy się w piasku rzuca.
+
+robie z konie? widział, biega się starze,
+zamek się przyprawił do starze, gdy się przecieży,
+aż zbychał jedlnie z zawołał się zaczęły.
+chmuranie zdała się z mosnę przeczynę w zgodzie,
+aż szale przecież ty trzyma pana się miał się w niebie,
+tam między w niebie stała przed miejskich czega,
+czyż się z notawia między przed sztostkie.
+
+przechowa z walszczy się za dotyla w pana,
+lecz major się ciebie
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "ię jako szczupak, gdy się w piasku rzuca"
+-------------
+
+ię jako szczupak, gdy się w piasku rzucał,
+jam niestotu pilna jaki klaskiego dopieści,
+ona rogona herbrze zbrazy nad -
+że te pdym, mochem rożę, tamtli, już jako rzekł;
+przerwał
+i głopry do oknie idne, smyńcza nawitać.
+zbramienia starzec, zmużył p źrle ochyńscy.
+a onczy na drogą się hałosujszy okaem,
+ale przechodził i jak w głcuch docholioną.
+dobrze, stał po gęsi, łoż buła szeprał na,
+w danie małem odkryja, jaki przed rzekł się cogą jak 
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "ię jako szczupak, gdy się w piasku rzuca"
+-------------
+
+ię jako szczupak, gdy się w piasku rzuca
+i powieżo we szaje dworre sięstok i dosobie
+tuż wojsku, żelesów! zwyczajcej strolić,
+nie wysłał; a  ja mów kilka chłogo; dżo, ma gada
+ściany, wzpomniy, raz lacać, zawszych się doęda,
+coś mówią jestego asegroną:
+czak bychy cu, an dłuszona suli z kucho!
+będzie, porwali wągnął długo już sojle,
+ów motechniłać cała ruchych storem, chałów,
+w okró, a ucio was niespadrak żadachem.
+
+tadeuszae:; ty pomal z
+
+==================================================
+ >> Epoch 22/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "wonił niemi):
+ot, gałki! - krzyknął - w "
+-------------
+
+wonił niemi):
+ot, gałki! - krzyknął - w niebios w pierś na strache,
+pod dziedzińcza z pola, z pod dobrzyński!
+co nie była w stołu wyszedł z wielkie wypierze.
+więc w komnie na przed miała w panu,
+a w się za nim pod mieszkał się w komnie,
+z wielkie zabiegał się w siebie gdzie z niebios pod końcu wyszedł z pola.
+choć o to gościa się z dziedzińczę pod z komnony,
+w powiecie się nie było z posłowanie,
+w polak w niej pod mieszczano z wielkie s
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "wonił niemi):
+ot, gałki! - krzyknął - w "
+-------------
+
+wonił niemi):
+ot, gałki! - krzyknął - w sopami masz z grzecznie,
+lecz z wolna pali się za niemie z polowarniany,
+w powieby, panie rozpierzewia, tak głos .
+markatki nie potem pod panie wielkie obrogi.
+
+w niebios za księży się od dłonie i wiele
+tadzowa pod lasach nie gadając się w pomienie
+i przeteszcz czernając w górę przecież z grzecie
+w takim wyszli do słowę pod dobrzyna,
+a panie pod marow kończył w niej w niej wywieściach posłonie,
+gd
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "wonił niemi):
+ot, gałki! - krzyknął - w "
+-------------
+
+wonił niemi):
+ot, gałki! - krzyknął - w świecia zwalaje,
+to żądła, o górz wiada w piesinne, każdaczała pomni,
+z jezene pławił rozpak do niemi pantere;
+i moje z czofiło się w wolna, kłąb, krew w nocy.
+z serz pachnymi. gerwazy i spóź nogi się urządziwy:
+wtem w litwie nate zagołny sposoba corazy,
+że o tem zboża jakby my miewiała w tyle.
+tadeusza taki nadobiośłów,
+dostał, braciaż, i obczęli prowadzał słowaą
+pasy, cowagnął na nos amicnem, sa
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "wonił niemi):
+ot, gałki! - krzyknął - w "
+-------------
+
+wonił niemi):
+ot, gałki! - krzyknął - w nimstwu padnie chłopie? wyprawić,
+lecz borze sz aktyło pardze przewojeł...
+bożsty wydobywa parłąca żyłm?
+to by teraz dwoc opowita? - dwora.
+więc nie tap? kto nowy na jego czysmona.
+zostarzecerromu i calega słową guzniej,
+mieczej niedosędzą: kulze rogi, ale przebii.
+drugiegdyś lalcanią choło, otemi wd żłwowi, kogą
+uwerał się są kupkili toti zaszkały
+i ucie urłowi żufać! ces za od góry,
+na isza trwi
+
+==================================================
+ >> Epoch 23/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "zie drzewa,
+cały las wiąże w jedno i jak"
+-------------
+
+zie drzewa,
+cały las wiąże w jedno i jak pod miało w pod miecza.
+tak starca w panu w twarz się pod marstwo wielkiemu,
+jakby po pod mieszkali przy brat granicy
+pod mieszkali pod zamku pod mował się, starze,
+jakby się w przyjali w polszcze wojski za niedźwiedzieć,
+co mi przecież z domu pod mieszkali pod zamieszał,
+pod wolna przysięgły się w siebie pod mokał,
+powtórzył się się z podobne od stare z pod domowiczna.
+
+tak wielkie pod starze w 
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "zie drzewa,
+cały las wiąże w jedno i jak"
+-------------
+
+zie drzewa,
+cały las wiąże w jedno i jak w wozilny,
+który posłyszał się czarny się przerwał przychodzić i zawiera;
+więc będzie się i powiadanie trzeba -
+rzecz ten trzyma się w trzyszki wszystkiem,
+chcak woje zawoł to więc do starze na panurzy,
+jako w przez góry pod marstwo wielkiej drzewami
+na wielkiej starce się i przyjalizy się powieśniki
+i rzekł major i pasem powtórzył poprawił,
+ledwie czas jak wojski powracał na ręku.
+
+w tym każdym 
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "zie drzewa,
+cały las wiąże w jedno i jak"
+-------------
+
+zie drzewa,
+cały las wiąże w jedno i jako zamienięcił,
+z wielkiją polszczęt, wytrzyt żył się karmiaertu! wisko w jestem ryków,
+da zamkuszej złet muplić, tarłki "mał głościej tylko zbrojkisza nie perzbiem mało!
+wywłazyłem czy w miedzę, choć pod miełztwach powięte,
+gdzie dziedzic błyskach przyszła gramiecić".
+tak patrzę pewna polsilnieskiem w przyzaczłych,
+pod śpiewy już nagłęża dwie mój tadeusza
+dutaj gumarz po nańczebny razem;
+ważnej si
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "zie drzewa,
+cały las wiąże w jedno i jak"
+-------------
+
+zie drzewa,
+cały las wiąże w jedno i jako na pirszał,
+wołać; bydł plaszczkę znatelkiem tanguki.
+zdobył tym śmisnącomy, co echa,
+je, po natułatów, tasło uczczom;
+ale woda kogbi; noż i gajeki całą -
+"kudzie? staty, zbytym prawi sposętejkę brodzał;
+a growarsty zjejdzów starców, zaled deszuć,
+i instylimsyść zbitwa wilnik miał wnósgę
+wojsko, co ciesza w pracało się zlomsposzczę;
+pzuta pod życiała sleba, nie penna dobrzywie
+łłubadź nic areszc
+
+==================================================
+ >> Epoch 24/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "o; zapomniałam, wieś zawsze lubiłam;
+i w"
+-------------
+
+o; zapomniałam, wieś zawsze lubiłam;
+i wszystko nie podniesictwa się zaraz, pod domu,
+wszystko do starzy się zaraz posłanienie
+i drogę przecież się za niebios w kolej z swą szlacheckiem pod zaraz,
+że na koniec strzelców do stronę przeciwnie,
+i domu koniu pod strasznie podkomorzynę,
+podkomorzy się podkomorzyny się podniesił
+i koniec za niebios przebiegł się w powiecie
+i postawiste podniesiała się podniesiła.
+
+"chorem, że się zaraz się w 
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "o; zapomniałam, wieś zawsze lubiłam;
+i w"
+-------------
+
+o; zapomniałam, wieś zawsze lubiłam;
+i w stary się w obrazek - odwołał sędzia do zaraz;
+prosiłb przyklęka wszystko słuchał mi z ręku i odstrńchachał,
+robak na koniec zaszlachta się szczęścia,
+ale poprawił się podanie - "na stronachem,
+i w tak obraca i przecież panie, jak posiętem.
+wszystko zapadnie w konie, mych, wszystkich koniusz,
+a gdy zakręcał? jeż bacznie i pod miału,
+małośnie wyprawiał i służący się mojewy,
+gdzie zapiętrze, który 
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "o; zapomniałam, wieś zawsze lubiłam;
+i w"
+-------------
+
+o; zapomniałam, wieś zawsze lubiłam;
+i wstąd nich nidym czer rbotnie kędziów zwróciły sały,
+żega o jewyzcz? częstość zadkładał, bo niesichdziu, - wszystko lub ranek,
+zrobiwa wszyscy słyszący, tęgu. - jużdy,
+służący na pas mistrz inna hrabia nie zaś ze dku,
+jeśleści przezda, szopatu jak było; sakie,
+nieu to zawołała mieszkał trzeba. - krzyknąwszy w sopotnie
+dziewców wkozo żyem, nieracesa już na tryluny,
+wszystko z stół litwie: "jestki ła
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "o; zapomniałam, wieś zawsze lubiłam;
+i w"
+-------------
+
+o; zapomniałam, wieś zawsze lubiłam;
+i w szajestu i szlachta ugrazać, w liźn gdzie totry
+nierośma upowiek, mańszcza ostych,
+czyki ludem panie, posłów drogę ocibitwy
+każe mej miaskukniki; ten stryła idnami rozlel
+i dannie posranie!
+bóg łwali komnie przyjdzisneni! lubki...
+móż wsółńbych krokie omrzce jankiej dobreszy.
+nimrna, jedna której na kraje wozów różne,
+przy tłowi postawok, a natwe, rzucić,
+przyjaziego nie żony ciebio!" - na spodem
+
+==================================================
+ >> Epoch 25/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "jako więźniów wojennych; u drzwi stawi s"
+-------------
+
+jako więźniów wojennych; u drzwi stawi stanie
+i po takie podkomorzyna, panie powiedzie,
+pod polskiej przykryczał po przeszkami w polskiej zaraz,
+pod konie, przyjale z domu i krzycząc z wielkiem,
+potem z konie, przyjalestem szlachty szlachcicu, podkomorzy.
+choć w przestał się z konie, że przechodził,
+lecz nie wielki podkomorzynowi po pana
+podkomorzyno się w stołu się w polskiej stronach,
+a na koniec w niej przestrzecz zaprawienie,
+jest p
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "jako więźniów wojennych; u drzwi stawi s"
+-------------
+
+jako więźniów wojennych; u drzwi stawi słuchamy
+zaraz do raz poznajmorzyna zakrył podział,
+jak zwyczaj w polszcze słuchać się w takiej przykładał.
+
+skłon po podkomorzę z lasam! pan z konie.
+widziano tak i przy panienka stało się z królacym.
+przeszło się i z nim pan dobrzystą, wielki w niema,
+jak do dworzem nie francuzi strzelcy w stronachu.
+
+lecz stronę z kolej do zabiecznie i z domu,
+stało zamku protazy w panienie sprawa,
+a po dzieciej
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "jako więźniów wojennych; u drzwi stawi s"
+-------------
+
+jako więźniów wojennych; u drzwi stawi swarekimcą.
+komeść ich yni
+przecież głowami, pana jak tego mówił;
+czyli przez przytada blaców poażwa, ślubniki.
+ten najców do kolej krzyk lub wyjrza,
+unowu stołkiej rączym ku rozmuczyna.
+czyna; sam nie prawe niech z polsków celu,
+zajotenszy, tadaune, strogów leźne ją;
+wachelca, bez szedłszy trzyskę sędziemu
+kłaty srucho przyjęść go sruch stórją; naprosorku.
+dziędzą, hrabie mogiem narodzenie do leka
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "jako więźniów wojennych; u drzwi stawi s"
+-------------
+
+jako więźniów wojennych; u drzwi stawi słucha;
+z otwalcfascu, cół musiać, pożnowała gospier cieladtwi,
+tależnie śmiałłścę licznę wiwat kmorunskowięta!"
+tu bytem wypilił ichyść: on, panny "to z twy, obiega,
+żydła lod, jak tan sreńczeją naów panie.
+
+tu mno, tak krółki piękę,
+z przysiębe;
+charcałe denał, co pod którymu zbroju,
+ge widział, że jługo, drewówści w ów dymego,
+ale delik, pełnia grzódem kambracto,ce.
+"próż hrabia, kuchniłym panrk
+
+==================================================
+ >> Epoch 26/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "busdam alijis. jak tam wiesz, tak szczek"
+-------------
+
+busdam alijis. jak tam wiesz, tak szczeka!"
+"widział w panie na koniec w stołu w domu
+i z domu zamknąwszy się przymawiać się z przykodził się zamknąć się w panie się podkomorzy,
+pod domu za nim polak się podkomorzy z poli".
+
+"panie za szkodziła się podniejskie na przed broniła.
+komnie z zamkiem się z przeciwnika zamknąć się z moskalów,
+i w okrzynka podkomorzy się w komnie dzieci.
+mowkiem się z przeciwnika w powiecie spadają
+po stracha w
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "busdam alijis. jak tam wiesz, tak szczek"
+-------------
+
+busdam alijis. jak tam wiesz, tak szczekiem,
+niechaj zamknąwszy się w słowa: chucie zaraz,
+a wziędzał się blas będzie w domu stali,
+zawody, jak w powiecie z jedne z krwawą i z drogi;
+nim kraju na granicznie nie już wojskim podkomorzy
+w głos poszłodził się z każdym i przecieży,
+a prowadziała na przecież pierwszej przeciwnie,
+wystrzeliwszy się stronnicy słucham, krzykami,
+a widzianej - rzekł sędzia dziś zamknąć w brzego młodzieniu.
+co cie
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "busdam alijis. jak tam wiesz, tak szczek"
+-------------
+
+busdam alijis. jak tam wiesz, tak szczekię,
+ale chartu się szpadlił wypolowy michsalę.
+w mśnią siedwałaniane stołu i potacząe,
+kończyli tu piasną miejsce pronę niech chcące
+i pajdy piechylem ręką ojąła dosywić dwie wiśli
+okręca nie oczy tadeusza,
+wyjadle przydami, podkom małasgą przed miejodząc rokaem,
+woźne zmrf ! z serdłoś każdy złowiany;
+jedno prawdają wąsią twrócń. szkodzić majory,
+wojski, tak odżytrwo! oż - konodzistach,
+odokniejsz
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "busdam alijis. jak tam wiesz, tak szczek"
+-------------
+
+busdam alijis. jak tam wiesz, tak szczeka;
+talej mardo pleściał komnąta nikom,
+i przeciankanky okwej oknom o miodą,
+tanę mówiłem śpiewały ogłodnim odobu ,
+ani woórzem ramią zażywszy się instu, zyczynkach,
+i pomucie i ten śmielitywać z tnoszu bmizy,
+paraliwoi międzye, ukościwy;
+wię dobył też jak porpój tyrtij
+uczę z ąmi używanem przed broń gospudytał;
+ale jłoszgignił się w twoja i proga zojuje
+poznałemiej głowej głowisk ach się, chocić:e
+
+==================================================
+ >> Epoch 27/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: " mu się uroiło zostać pańskim zięciem.
+d"
+-------------
+
+ mu się uroiło zostać pańskim zięciem.
+dziś w polskiej pod domu powiedział się stary
+i stary się z wielkiej stronami stronę,
+po siebie, co się w siebie pod domu domu,
+po starze, pod końcu stały się w panie stary,
+który potrawne po grodi startarze z grota,
+stała się w siebie pod stołu się z domu,
+za się w soplicowem nie pod której stronacki,
+za niemieni się z podkompończ się w polskiej podkomorzy,
+to mówiłem pod mieszkał się w polskiej s
+
+=============
+----- diversity: 0.5
+----- Generating with seed: " mu się uroiło zostać pańskim zięciem.
+d"
+-------------
+
+ mu się uroiło zostać pańskim zięciem.
+dzieci porzuchnym paniena, z wielkiej strwody,
+stała przez szalu uczy jak jeszcze panie,
+jak w siebie za przeszkoł tam zasządla się wielkiej opata,
+pod której stronach lata, czemną i bogu?
+szyję pod której macy!" - kto wie! niech nie pod moskwe stronach,
+pod stołku zaraz od mocki się zosię;
+który się zauczł, że trawie pan z wolna z grzeczniej szeroka,
+czy coś przyszłość powstał na wolności, i panie
+
+=============
+----- diversity: 1.0
+----- Generating with seed: " mu się uroiło zostać pańskim zięciem.
+d"
+-------------
+
+ mu się uroiło zostać pańskim zięciem.
+dziec stałem i jakby kontu od siebie
+za nich kontego pierś byłem ślezny karaznę.
+o poły nie odkomyła, kropić;
+opanie oksty żo!cy", dzwej silniego bardzieny;
+wpadli grotocnych! lecz co go do bogu;
+przy sobą i dłożę: różnie mu skutnych? mory,
+prze wołać? co, tom, często spósi mieśnym u alece,
+ręce i naśpióronetów, szlachta i prawo goki
+przelęki urązać z chorodpi konliczej zimlną,
+chwala się, odniem, 
+
+=============
+----- diversity: 1.2
+----- Generating with seed: " mu się uroiło zostać pańskim zięciem.
+d"
+-------------
+
+ mu się uroiło zostać pańskim zięciem.
+dobrzyńcy jak nieźmiąc i, nie psięknął mógł dojelki,
+rawać, gdy staczą; nazy; uroczech, woów i stronami,
+i do włosów, okoje niech ślejska czule,
+zjużcowy ty i nie my panszać: lepnieju, ażegan w kychadłu echa?
+jeż z wypowięków zoplenarcy..., skakowa:
+okiem, gdyby o tą ów - krzyknął ucieciła;
+widzędzine bez krzykąwszy go prawe z jegom
+księków dalibików waczną i ich chylił edle!"
+sobie stuęń mosnal om
+
+==================================================
+ >> Epoch 28/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "sz, opiły trucizną zazdrości,
+zdawał się"
+-------------
+
+sz, opiły trucizną zazdrości,
+zdawał się w powiecie wielkie strony miałem z domu,
+z przy niemienie w powiecie wspomnijce z domu
+i wielkie szedł z drugie na szyć z komniała.
+
+przecież z przy niem w powiecie na przecież z drugiej szyśle z domu,
+z dowieniłam w pole szlachcic przy stare szlachcicy,
+postrzegli wojna się w przy dawność podrodzienie
+i trzyma wielkie szlachcic powiedział się z domu zbrojnie się z drogiem.
+
+to wielkie wielkie po
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "sz, opiły trucizną zazdrości,
+zdawał się"
+-------------
+
+sz, opiły trucizną zazdrości,
+zdawał się w przecież strony z drogiej skradył z drugi.
+
+i smyszem wyszła szystał, podniosło pod siebie,
+wielka zaraz bogaty w robić na czynie.
+
+nie wskazyła się chory biega na niego biega,
+od krzepi wielkie para ogatrz, który od dworzechem.
+
+szlachta się z kompilano pod poznałem szedł z poduch,
+widziało lekkiem w niej wznosi się, robie.
+
+szarach wielkie wystrzebła po milczę szedł w polugi,
+podziała na pole
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "sz, opiły trucizną zazdrości,
+zdawał się"
+-------------
+
+sz, opiły trucizną zazdrości,
+zdawał się, czas tuumenie jednął nów niebiosnej dym,
+wzym robacznie rze; składacią zocny: wrziało wacht zwiedzanie
+wtną up"padł i to był szybkami; w przez siebie
+i wojna w dziesi, ualeprzeć, lubił skryłki nie ubochał,
+posłysza do białkiema; przycówkły się z dzielicę,
+więc mu, prawda, że się okraw przy jakiegom, gordowicy,
+douwie razem czasty, zrackę atrdzielej dziesimerpakowa.
+niewiej ocawinie trzymeć się;
+
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "sz, opiły trucizną zazdrości,
+zdawał się"
+-------------
+
+sz, opiły trucizną zazdrości,
+zdawał się: "panie dozwania z dwujej.
+kilki zieleściem w łońcu głównów drugimku, bez żążnemtem biedzać
+woli,, cóż dla uślignie od wiatlu zmówiwsze niebiosny: "tę scy:
+deszowia czasu optórfa,
+derzwszy wódkę taleszą mój daoknym były!
+ożej to dokrać kleunid zdartej wreszcie konie!
+ces zimi, nie jew różnofy niw niat kurdr;
+zawsze sądę szucem, nawodcie duchał po kapżety,
+i zwinny z mognorom, po zjegi toła obiakl
+
+==================================================
+ >> Epoch 29/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: " brzegów
+odbiła się, jak od skał, od mos"
+-------------
+
+ brzegów
+odbiła się, jak od skał, od moskali, z wielki,
+drugie na przecież za nim powiedzielu,
+po gromiej się schyla, ale więc szlachcica,
+za niemie, z grzeczki do starze wielkie się stali;
+podkomorzy się w przykazał się w powiedziała
+i za się za nim w polskiej stali dzieci,
+pod biegał się od domu za nim czas w panie,
+wszyscy wielkie podobny się w polskiej stronie
+i wielkie wszystko za niemie, wszyscy się z grzeczka,
+za pochwały się w p
+
+=============
+----- diversity: 0.5
+----- Generating with seed: " brzegów
+odbiła się, jak od skał, od mos"
+-------------
+
+ brzegów
+odbiła się, jak od skał, od moskali zamyśliska,
+przechwały się zasięszy na przyszłską powiedzieć,
+zawsze wzpomocy potem z wojna się w nasie.
+niecho szczęści szlachtę krwić o pan zarazem,
+w swojej zaraz po czas za spóry nie mnie,
+rozmawiają szamtaniem w katanfaram, krzyknął;
+przychodził się przyjedzielający się w okrzycze,
+pod domu wszyscy swym stare z dziewnych szpady,
+bo za pierwszy się na wielkie w sztukiem,
+przypoku pilszę p
+
+=============
+----- diversity: 1.0
+----- Generating with seed: " brzegów
+odbiła się, jak od skał, od mos"
+-------------
+
+ brzegów
+odbiła się, jak od skał, od moskalurny;
+stać siedzieć człowiek - rzecho przecz dłacieka,
+zaczęwieliż krzyk się leci na goli; onach,
+gdę między grymią z długo, gdziezdaczej niej miesirza;
+wygląd w mgli się w ręku przyższący oboleóci
+i wiencan, oszajym nabel wteliłem? o wszystkiepie.
+
+w ichowica.
+strzega łówją sam scyzurza błowaniony!
+
+wiadna by nam widynych, jeśli deżając po toma,
+co przy jak drewnów po ?"" - i ojczeleńcu,
+odwią
+
+=============
+----- diversity: 1.2
+----- Generating with seed: " brzegów
+odbiła się, jak od skał, od mos"
+-------------
+
+ brzegów
+odbiła się, jak od skał, od moskala: białem, krągwosta,
+bordziejy i dals połabiać, potrafnych,
+dzieciną siadła honor nań mamuje pole,
+gdy i szpadkilonych pytajsta jele samach.
+
+rdzych jednej puszczę zmiesi się śmagła mikala;
+że chlisty, co też nawetyskiemy wolności.
+chce go ubrala cztwona dwagnoem bywię,
+a dla winwej jezma! panna wspólnemych ojczygnwygi.
+niewziąż nam co splacką ozdobychał się,
+na zatem jak przewiątny dwa we prz
+
+==================================================
+ >> Epoch 30/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "j matki pod twoją opiekę
+ofiarowany, mar"
+-------------
+
+j matki pod twoją opiekę
+ofiarowany, marszaerk stał się w powiecie
+i pod dobrzyńscy w stoło się w stare w pole,
+jest nie podkomorzy na polewszy się w pole,
+moje o pole szlachta nie wiedział się w pole,
+mnie i po starej stronnicze, po polucką wiele,
+którze się w pole, po polak z przy polewił,
+a przeteż wielkie stał się z dobrzynie w pole,
+może podkomorzy na czas do starej szyszczego,
+po polak pod niebiosze się z górze, w takiej, królaczk
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "j matki pod twoją opiekę
+ofiarowany, mar"
+-------------
+
+j matki pod twoją opiekę
+ofiarowany, marszaerk dla obu gości,
+na wszystkie z gardze postawiał się z wielem,
+a podkomorzy się końcu zawierzga z warzania,
+którze w polatne stronie na ziemianka skrzydłem,
+wystrzelić z tyła prosił się w się prywa,
+i maciej szeroko wielkie stał od złocie,
+aż pan pokojoło zażywając się zakrywał,
+miedzdziecie na koniecie się w pole. przykryłcie, gdzie z pojedynie.
+to przyjedzi usłasznianej do podkomorzą porzec
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "j matki pod twoją opiekę
+ofiarowany, mar"
+-------------
+
+j matki pod twoją opiekę
+ofiarowany, marszczył polskich strony
+myśliwszy pardy, popiefy jak dna bezbruka;
+w ropat czuł, był oczy ibydza z rzej śnieże
+stało w grzędą, je, strzągo
+uprawne znowu już i zboże dać zaszłość grzeczki pożył;
+do obrzędziów odjendki: więcej weszła swojeszunie,
+aśżliwna w się innej zająca, złazna i wnet rozsałby,
+że carcisz, o grzudy, czas poławny bernardyna,
+gdzie dziewczys upią, chłopów dozarz niecógł p:
+wiwat by
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "j matki pod twoją opiekę
+ofiarowany, mar"
+-------------
+
+j matki pod twoją opiekę
+ofiarowany, marka tule słącza na jedwyf prościwniep,
+ledwie zobia się skutnie a gijatdz wszystki,
+wszystkie, keżny, pół kochać, gdzie dwie mam w jaddłośćnia, im piłkiem,
+oria; brzem, do wwats w nudywał się - i ddzieści,
+
+gdyemłmisza, łącąc kluczomeniskie, idoby.
+kryje po zadział ukoramiąk ści; nie uży.
+
+wy.
+powor, dziwy moty! anudjąc i szajęją,
+lecz śniegw widząc za zwasz zwierzcy, to maćk zbyt tak uszakał,
+dost
+
+==================================================
+ >> Epoch 31/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "iedzieć nie śmiano,
+po kim była żałoba, "
+-------------
+
+iedzieć nie śmiano,
+po kim była żałoba, pod minął się z siebie,
+na koniec w powiecie strzelać do strasznie w powiedział,
+a w tadeusza w tym do strasznie się z drugiej szlachcica:
+podkomorza na podkomorzano to malarne,
+pod moskalów po tym za nim co pod domem,
+a w tym i dobrze szlachty za nim głosem stali
+wielkich szczęściem z wielkie pod dobrze,
+jak pod moskal skrzydła się z domu zwierzy,
+pod moskalów pod moskalów za pierś każdy.
+wierz p
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "iedzieć nie śmiano,
+po kim była żałoba, "
+-------------
+
+iedzieć nie śmiano,
+po kim była żałoba, tylko na mnie brat zofija,
+i w panie zapowiem maciej szlachty nie prawie,
+pod dam poważnie był oczy w koniach małośnie ostrzegam;
+drżce o krząże był miałem nie wielkim był o ciemnemi
+tylko miecze się potem po nas bywał zwierali,
+strzał w powiecie lesnie w podr"zicić, to przeciwne zaczyna
+wszystkie słyszę kręcą i zaszcznie męce stronam
+oddaniami w niebie na nim nie szczera małośmy!"
+
+o tej prosto z
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "iedzieć nie śmiano,
+po kim była żałoba, "
+-------------
+
+iedzieć nie śmiano,
+po kim była żałoba, deszczą tłumie,
+w nas, do młode sędzie i się składy pieczeć
+a ten podzielisz by to, kochu protazy! i powołam:
+srebretm dziwilano w długie drucek myślonie.
+on rożyóncznianem, że mój szpiepów, ściennicę,
+zdoby padł do męgi, jakby wszyscy domieni,
+ale kiłupbyś, jać do przebiogną się na czasem;
+radonem które ty kapitarska, z zartażasi
+książę, lecz pawjanków! owe łowiać do złożą,
+dziś sprawę na niej ci
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "iedzieć nie śmiano,
+po kim była żałoba, "
+-------------
+
+iedzieć nie śmiano,
+po kim była żałoba, psy usłyszy i odkoń tem,
+cołowiecz nam dzieka poczę do niej wolą.
+rzucói nie bacielu zna są odobiegiebika;
+wnet wysłuskotwski, kiedy żydząc oczy - opaleokane
+przez waniteść oboja, grożędzo gdy rze
+na kamiena! grymied aczolem wysłubondłonszej kuży.
+tylka
+swe chotych: to horeszkłem chłopie! graz mromną cichem!
+tyką sobie źwierzmodnie modach ładsich dobrace;
+wielk skak jak kupą różny i kapitali; wkoł
+
+==================================================
+ >> Epoch 32/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: " chore,
+pochyliwszy konary mchem kołtuno"
+-------------
+
+ chore,
+pochyliwszy konary mchem kołtunować,
+podan się z wolna się w stołu podniósł,
+a wiem, że na wszystkie się w powiecie drugiem,
+pod wiesza, w niej skrzyknie, jak w miejsce wypierze,
+pod dobrych nie wiedział się na przyszłość za niebie,
+wszystko podan się w stoła się w pole;
+po wiecznie moskal skromny się z wolna powiewczyć się,
+tam się wysłał się w powiecie się i wyprawie
+i powstanie wszystkich podniósł na powiecia.
+
+te na wielkich
+
+=============
+----- diversity: 0.5
+----- Generating with seed: " chore,
+pochyliwszy konary mchem kołtuno"
+-------------
+
+ chore,
+pochyliwszy konary mchem kołtuno, powiedział,
+co się szczęścią się, nie wiedział, że nie zachodzie.
+
+tylko przysiłgi o owiec, kombryci tadeusza;
+wstając na powiecie mu się za nim a w ciemie
+na stary sąsiadów dobrakają z te przykle wyjeży.
+ale. co co nie zasz? poraszł na szlachcicu.
+
+ten był na powiecie chciał o tyle w stolice,
+i postrzegli, w przyklije podan tyle od drzewa.
+darmo domowa powstał chciał w i słucha,
+z tyłu mało się
+
+=============
+----- diversity: 1.0
+----- Generating with seed: " chore,
+pochyliwszy konary mchem kołtuno"
+-------------
+
+ chore,
+pochyliwszy konary mchem kołtunowi głowy
+i dojetne odłaczej skinać wieszami,
+a ostrożych rozpali wiatr ze stolice,
+a kto zas omatry by się. bo synowię!
+on w droba wkrod bernardyn głucho rozno ływieźnie,
+i zgodziać ok kapelustra, czynna; rue, sypis gdziwie
+i ten grzyta na wyprzasło
+zielowesi; po przeste bliska żów się do łowiskę,
+bćliż fiwaje, klucznika, każde wszyscy.
+
+przedgłosują ruski: to pilnile za olienie;
+wzdruku rożanem. 
+
+=============
+----- diversity: 1.2
+----- Generating with seed: " chore,
+pochyliwszy konary mchem kołtuno"
+-------------
+
+ chore,
+pochyliwszy konary mchem kołtunoły,
+splan ponumancek niegomoj, u krzączy?
+og, ślad niebiktkie jej stwa pięki trzy strajów;
+wyjewszy nadazbolk, i cymżą! potrzena złotego ruchi ,
+znurz algo za kręków te; jak zzaopi;
+musi, omrząc świątki o ów mowa,
+leży dotąd, irą straje wyduwiąc durpo,
+ze wytankiej śdziszenią śpieszone ledwicnego lecz
+i pzinami sunki ztył na: dzwonię, co kazały drusi,
+lubił się zaczął nufek cuciczołała,
+i znikł sz
+
+==================================================
+ >> Epoch 33/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "i świecące,
+tam jako trzody owiec na mur"
+-------------
+
+i świecące,
+tam jako trzody owiec na murski szlachtę,
+był to moja się w pokojów od strasznie,
+jak pod domem w polszców nie zrobić się w konie;
+lecz miał postrzegła się z powodzy się w pokojnie
+i nie wiedzieć w pokojów w niej smutnie się zgodził,
+jak w pomina z skrzydki się w domu zwierzanie,
+jak po przeciwne z góry postawiał się w konie.
+
+tadeusza jak się w konie, na koniec w pokojów,
+potem w pokom powieczki się z wiem, że na się skrzyp
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "i świecące,
+tam jako trzody owiec na mur"
+-------------
+
+i świecące,
+tam jako trzody owiec na murski wraz się podziera;
+tak bez nas wszystko podziela i miał do wyszłoś potem się z górze!
+mając się w okoano mieścić się ciebro!
+dawniej nań w podzieru z dziejęcy z rejentś grzeczyma,
+sam tak krzykła. sejmikę się zwyczaj się w boku,
+obrocze, tu w nim strzelać się w się przemieniami,
+że na i w pochrustyce, dziś odtrzecim: rodzie,
+bez tylko jeszcze się i po łogli się w niesie
+i zbrojnie z się moja i
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "i świecące,
+tam jako trzody owiec na mur"
+-------------
+
+i świecące,
+tam jako trzody owiec na mursczmorutdam .bytki
+żartwy się i tula, się suprów, gość w krzykum łacnym, ujrzał;
+u dziwis ruch zsoby bartki i w środku,
+lub wiejskiej sak z smyczyche znukłami zrazką się,
+a rozum, lubia; to w przejedyna, czy o tej że z nim u dziele,
+i pejen bez ks ! z pochwilije własnie wszystkie mnąc chorsmści:
+bez w przyjęża tażne sędzia oba starzy mieśniku:
+a wielki grzywszy na konieck zołek i szlachtę,
+płościa
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "i świecące,
+tam jako trzody owiec na mur"
+-------------
+
+i świecące,
+tam jako trzody owiec na murzace gomołspółgarzgić oczyśe;
+jak niemielk ugatok ławiaj; w ojczuż interdy;
+nim z wiaśnie za łzapowe,
+gdy pomnij, "chodził córką i sędzia jak za drzałyją oprzeczętnie,
+charzniowić ją togłościo, nawet, jak go nagli ib lubiu,
+i jozwszym o janiały natychligł liście dla maką zawołany
+użpnąwszy non omal lecą nad błysntugi,
+g w tej swem wyskomis
+powizęli. - rzekł sędziego, w dobrej przyjala!
+machem grał
+
+==================================================
+ >> Epoch 34/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: " z złocistemi gałki,
+z liściem lakierowa"
+-------------
+
+ z złocistemi gałki,
+z liściem lakierowanie się z moskale;
+zaczął w siebie podkomorzy w koniał się o pole,
+a wielkie podkomorzy się z przeciwniczy z komnie,
+z grzędko z przyjaciel podziewać się z pochodzi.
+
+po szaram przebracie się z głową się z przyjacielem,
+pod konia szczęściem, który na koniec nie z przyjacielem,
+tam pod moskalów w koniał się rozmawił się w konie,
+pod domu zaraz z przyjaciele się z przyjacielem,
+z wielkie stolicy się
+
+=============
+----- diversity: 0.5
+----- Generating with seed: " z złocistemi gałki,
+z liściem lakierowa"
+-------------
+
+ z złocistemi gałki,
+z liściem lakierowanie z tyła w zawijanie.
+
+gdy na po czerniał, jak przed stare skoczył,
+który mieśny rwano, wielki szczęścium w tym sługi
+i skróli, z wolna w kom nadu, tak szczęścią bernardynem
+w polskie każdy nie telimenku!"
+"owolnie często kroków w przeciem przeciwnie,
+za ten bronią i wielkie ucicha, nie mazy nazywał,
+że to przemiętny z zosi, tak jak kroków,
+ma trochę za wojnyno w marszały się stroju;
+wierz który
+
+=============
+----- diversity: 1.0
+----- Generating with seed: " z złocistemi gałki,
+z liściem lakierowa"
+-------------
+
+ z złocistemi gałki,
+z liściem lakierować na białą hiszny.
+zar tylko ktarową w karczmie huba i kukie,
+łacsta, przemyślonąc i w tyłom błyska w tyle;
+nawet przy nas zaraz lud krucieny smą tuż bo paćł.
+jeszczy ciągnął jedny, ażeści na ksiądkiś kwiana,
+mamarza tadeusz smłczącie wzniennie z miorski,
+gryzał gromu przyzwał się do źwierza, tym się urazy,
+palca zaczął, było przy rejwody nieu, broń razu;
+lecz za rozmowy cisną szerokości tam się,
+
+
+=============
+----- diversity: 1.2
+----- Generating with seed: " z złocistemi gałki,
+z liściem lakierowa"
+-------------
+
+ z złocistemi gałki,
+z liściem lakierowa spójrzał upiorem,
+kluczniki wczapja się, że wszystko, o to moja?
+z wabję z ręku grana, że rzecz łąka niby przyblał,
+mymar po ścianiewi; auli kale.
+bronnic płoci! buży się, czys schylił in pan z głoski;
+telimenę nijy, które na podkory na ulaci".
+
+teraz horeszł się bez sórćum wysłużąca,
+grość do ciemnej pluchasze świętym głanie,
+pono i perereów kłów trwa? kto o pięty jankiusty,
+ażeby sadzi, i syzfu
+
+==================================================
+ >> Epoch 35/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "amiony:
+"
+-------------
+panowie bracia! aj! aj! a na bo"
+amiony:
+"panowie bracia! aj! aj! a na boku w stołu.
+
+szczęściem szlachcicych za stracha zbierał,
+a więc z wielki szlachty strzelców za niebios na szukał.
+
+"nie więcej szczęściem strzelba się pod szlachcica się szczęściem powieczka,
+zabawił się czas w powiecie w sąd powiecie
+i pod miejska szeregł w konia powiedział,
+a w czas domu wojskiej słońca za przyszłoszem,
+nie wiedziałem się pod domu w konia szczęściem,
+w powiec w szerokował się po
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "amiony:
+"
+-------------
+panowie bracia! aj! aj! a na bo"
+amiony:
+"panowie bracia! aj! aj! a na boki w zajardy...
+bo to z gór słyszęcy w kochaszał i starze.
+
+rzekł się na pojęty stronę za starze:
+koniu wszystkie na koniu dawnej wystrzebli skrzypami
+starze; wszyscy jest tak zaczęły się znaleska,
+pod domu za przyszłości podróże nie mospanie
+na przyszłskie pod rok czy w kosadtomi nie biega,
+bo na kończył i dostał przyszłiskie przyszłiszkiemu
+i szukał pod niepetną w wysłowo przyszliłh gromadał,
+al
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "amiony:
+"
+-------------
+panowie bracia! aj! aj! a na bo"
+amiony:
+"panowie bracia! aj! aj! a na boku pana
+ą rok dzikie, cieszące na tyle rzuca.
+
+w niepelużywnie nadstali białe ich biegnami
+w nuszył, chociaż w sąsieczwa wiosnkie z groru
+i czasem jego drzwi miejsarotto, po sobiau,
+cała odwrócie wstadzic z każdym ostołu.
+ni telimeną sprzyjacie, z domu powrodne żywiżyli!
+wręcza zbliżczyli nie zabliła oby, albo todzie.
+
+onobę mół pustę 
+lub ognia pan i woszyłm w ni. wojskiem;
+wtem sędzia i też pnie
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "amiony:
+"
+-------------
+panowie bracia! aj! aj! a na bo"
+amiony:
+"panowie bracia! aj! aj! a na boki nie takie przejdu,
+knet w żej są las w eleków nad dla nauchu, uwarę grzeczye!
+a: z celurscę zistoupca, tu, tyle, szklanków,
+strzelbią płowili jemy szczlóli wysobie wpadł głowę koniu
+nie gęsta, cybro: mawia pokiwy "szaok pokrowska łzywi;
+jeż do szuszę i życie ksiąkią kluczał kucy zląte".
+ptaków z szkniuzmźbi, ale ktodzie!" - łowakapratciea,
+jak rubała włoskiej serce uraz głu k,
+ne chłoptana, i z
+
+==================================================
+ >> Epoch 36/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "owie napoleona i polski nadzieje!"
+-------------
+
+"ha!"
+owie napoleona i polski nadzieje!"
+
+"ha! zawsze w powiewać pod szlachty szczubę w kole".
+
+"na koniec w kolej podanie podanie spojrza nie zjadził,
+pod szlachta na polskiej szlachty strzelał się w siebie stała w powiewać,
+podkomorzy nie przeciecze się w powiewać,
+ale ma się za powieszowić się w kolej podrowa,
+a więc z przecież o tem z wiecznie szczęśliwy,
+jak podkomorzy z przemienia się z polskiej nad połowy
+powsze z wieczerz się w powiew
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "owie napoleona i polski nadzieje!"
+-------------
+
+"ha!"
+owie napoleona i polski nadzieje!"
+
+"ha! sprawie się z wielkiej wystrzegła mu podanie,
+a wami się na podkomorzy i pozwolany;
+przeczy sługa porazy, a pustorowach
+ale w przecież za piersionemi rzucić?
+całą chorali marszaztąd po drobie za pana
+forucznie sposobej z dara i pan sam dawniej na pana
+źwierzany, krzyknął: "na wszystkich w dziedzicy,
+wszystkich wielkiej przyjacielę, który się twarzy.
+
+starzy, to się za szkowiec krzyknąwszy na tym 
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "owie napoleona i polski nadzieje!"
+-------------
+
+"ha!"
+owie napoleona i polski nadzieje!"
+
+"ha! a i o idżo; nie wznou,
+jakby spółniane wmuziewała przy tej brzecztem,
+sokołością o niemnej ramieniu słowu,
+czy z pochwała memu przemugi; nich do prosię,
+zwierzejszą na sobą się, trzyma i konnie
+i i przyłaszył iśbinawym poważnemi
+i rozlili, asmyśli dawniej oprawie z odermonę,
+starze: bo prękują "moserz o nas ich kou!
+jeszcze wyzbrany ołoiem z kkraniem swojejtbą gestodadzą.
+dziś gdziałoś możnz: tal
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "owie napoleona i polski nadzieje!"
+-------------
+
+"ha!"
+owie napoleona i polski nadzieje!"
+
+"ha! postrzam sam uczczkszy wuńczące, dziżanyu
+drugim. to wszystkieu, kobiec garę, małe".
+a już o o ć, peluczym salihać jegrą,
+myk wyrzuciwszy na swych całudy, ryków,
+dziś okrwaja, toż już widzi przetmistych podami
+strzelcy czczął wyówny rzała się z oczuje
+i przegłowach gromadnonam, którą przecęczy
+i ga? "innadł polijowa myżasitp!" -
+rzecz przepraszłem syla rzawczów głowa?y,
+albo pan obieszenia procie
+
+==================================================
+ >> Epoch 37/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "hej wsi litewskiej, kiedy reszta świata
+"
+-------------
+
+hej wsi litewskiej, kiedy reszta świata
+i szczęściem, tam się zaraz się z pozwolach,
+w kolei w poziewać z wielki szadłom pod niemu,
+nie zaszedł się z wielki szarach dłoń i pod dobrzyńskiem!
+pod mieszkali w polskie pod domu pod domu wiele
+i pod moskal szyjając się z dalekami się z domu,
+po drzwi przy dobrzyń zaraz się z polskiemu,
+przyjechał się za niebios w polskie pod domu zaraze.
+po drobił się w siebie wielki szczęściem,
+ja chwały prz
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "hej wsi litewskiej, kiedy reszta świata
+"
+-------------
+
+hej wsi litewskiej, kiedy reszta świata
+i zaraz się, że w niebiosem czas się za strasznie,
+przeciwnicze, tak przy polubino szczuście
+słychać, po łagodem w niebios krzesło, gniewną
+i za niedostronnią z się tam przy ich sztennie
+i zabić z krwawy się rozprawił - każdych,
+tak wieczorunki stronę przyszłość zawierać,
+przy wieczorła przy pod podobny po przy wykli,
+na przyj też i pan i w domu pod bramy, miecze
+i w sercem, że nie wielkie śmierci
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "hej wsi litewskiej, kiedy reszta świata
+"
+-------------
+
+hej wsi litewskiej, kiedy reszta świata
+i rodziwi - kto  ówdzinie, prawdza się kofonowy,
+ale tłony maleńku, czyni nie wskomy
+ten kolzasu? cha, że się lesta; wsądzili,
+"nic - ja tu krzyjnie i w rozkomorzawski!"
+
+w zabić się z dział wózywając się w stary,
+dzia mań podobomsy: ja hrabia prawda,
+niech które ja nie poznały ją wusiać kuszą,
+słacom to dareż zakwej, aż byłam nawie? być rzecześć.
+zażywać, celnie, pochłonąwszy litwi strona.
+pół no
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "hej wsi litewskiej, kiedy reszta świata
+"
+-------------
+
+hej wsi litewskiej, kiedy reszta świata
+wpół rzucy w wielkim jędziwa; błodaću,
+i przelecias lasacząccu dwielaźnie ołuchu.
+deszczę wszedłoówa, obok chczsutliko;
+siedzi odsadą istyją milczono osadką dąchy,
+walgły spuścił wojewne zasiasło byłe,
+granicto
+wszędzie, okaerki to winderę z gotkać,
+człycówni któł szlachcy zują iweki, sade;
+zrobić zarbu, sędarzaptę, chcyt w napisónej pada:
+wteń a ty cołowie izbie, ze strysu? -
+i widzą wnad pozwusz
+
+==================================================
+ >> Epoch 38/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "ku, że pan grosza skąpisz
+na proces i te"
+-------------
+
+ku, że pan grosza skąpisz
+na proces i telimena wszyscy w pokoje,
+podkomorzy podkomorzy przedział się z dawniej strzelał,
+a na koniec w konia skaczny, obrocieniem,
+i w konie, na przed nim stoją się na przecieży,
+potem skończywszy się w konia wszyscy na drugi:
+już wszyscy w stoło w swej stronę w kochali,
+że się zabiegł powiewał się z powolnie w stołem,
+a pan sędzia spójrzenej stronę za nim na konie!
+ale już tadeusz za słońca stróny wyjeżn
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "ku, że pan grosza skąpisz
+na proces i te"
+-------------
+
+ku, że pan grosza skąpisz
+na proces i tem rńczał, bo wzarządzą się skrzypną;
+skoro ten szlachta pan sędzia nie panie wszystkie wyprawił
+i potrzeba czas bertarchem swej obroku
+na krzesło; co bracie swoje nad dobrzyńskich i wiele
+wie, a na drugiej podniej słuchami spajnie,
+podział się starej na strawił do zabić,
+a był na koniec na stoło strzelców wiele,
+które markiej starej nawienił, pod powołał,
+spuścił w nieficha rozmawiając się od dobr
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "ku, że pan grosza skąpisz
+na proces i te"
+-------------
+
+ku, że pan grosza skąpisz
+na proces i tek wszyscy, widząc, tu powszechnycem,
+znając sto robak wiejska brzytkiem głową?
+naplazego siedział: "iweż srejeże brogą saka,
+szlachtę młodzyciele, jako zatrząsaźno trzeci,
+nim calą narzężocze: "jako na mnie nie chowa,
+poprawej dobrzejęli zdani rej rozdówiaży,
+który skonąwszy rozypędzija, szpady obiem.
+które straszni i może jak a. goąbą, o to i widziano
+i szkuowej całąwszy procem, mówiąc krótkniejs
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "ku, że pan grosza skąpisz
+na proces i te"
+-------------
+
+ku, że pan grosza skąpisz
+na proces i ten spcądjęa srejzak długiym:
+przeptastwa nie blisło zaśłoż wyniedlach na łębacze,
+zmoskawał uwarcie muszą, dobrzyma;
+ale szpadkając wielkości pleczechszym. cawię,
+tobiałym dowoję się, nic drugim, który i popalił,
+stama wyłzas portyńcem kustrza, złową!" jokace;
+tu karki dęga uważy, tadeusz pani,
+trzymach zdyci nas jak obyt, jemy oku".
+asęabającu, uwa!" - i podwajscy,
+trafiło dobron zdobisdusu poszli
+
+==================================================
+ >> Epoch 39/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "ż tu widzimy: wszystkie landraty, hofrat"
+-------------
+
+ż tu widzimy: wszystkie landraty, hofraty,
+lecz przecież po tym do powiewać tadeusza.
+
+w niej smutnych podobne po szali w powieśnił,
+jak gdyby pod domowe siedział się w powietru,
+starz skrzydło się w powietrze się w powieśnił,
+lecz podkomorzynnami wystrało się z powodze.
+
+pan powstał się pod domu szlachta się w powieśnił,
+z podobne pod zostały się z powsze z wolna
+i w niej szlachta się z powolna do stoła,
+z powolna moskale, to szlachta 
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "ż tu widzimy: wszystkie landraty, hofrat"
+-------------
+
+ż tu widzimy: wszystkie landraty, hofraty,
+czasował z dala, trzysek szlachty w podróż, był tokiem,
+tu z podobne na konopicze, drugi w wykręda
+za granicny w powiewać jak pięty, w zamku porzeczka,
+w panów bartwszy się za nim żary, trzyszczane,
+a wiążego w litwie; w ciennie pan stary,
+trzeci z tyłu od kłótnik, że w tym przez ziemię,
+a chce niech że nie wiele pod wołał szlachta,
+jak wojski powiecie szeroko w okrzyła się z rozkazy
+i podkomor
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "ż tu widzimy: wszystkie landraty, hofrat"
+-------------
+
+ż tu widzimy: wszystkie landraty, hofraty,
+chłodzę, gdy na drzew kibałaś jene, i w lasa lub aleśniu, ja pana,
+zatknął sobie w lipiem mejka, całowie
+i zofij sr-m-hramtona! było, lub i po kłótnila,
+w spół, ale wiedzieć, ja śniab, zbradło sercego,
+zamku dłużsy chrugnąk wydać głowę,
+choć wojski łotrye;
+zdałała, choć mnicze pańszczesił:
+byłem; i maty do łbapan zrozówu .ń, mu moskali,
+jak wrówkom, którą, to niecąc poden, ogrodu,
+pędła wyjął z
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "ż tu widzimy: wszystkie landraty, hofrat"
+-------------
+
+ż tu widzimy: wszystkie landraty, hofrate:
+bo wustem go kogo ów trzasnęły.
+zosia talebu! wkołowskę o zowięca,
+a, ni spod waltówko często dama najmy:
+gdy wiele do coś arękamile, wstałem zaraz,
+gla notrją ku ramaupkę maciej piórogi.
+łoki garczów buhoty;
+w kudy, hrabia za dłubnie dowojcówca,
+kiele obiec , torzybienalił, tu caż wieszkarnandanby!
+
+nużem złyczałami pędząt?" - to nasroklę.
+
+bieruka,, bej z kompuli; chłopni jenegoów;
+szkoło by 
+
+==================================================
+ >> Epoch 40/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "ary,
+chciała wyjść na dziedziniec, lecz "
+-------------
+
+ary,
+chciała wyjść na dziedziniec, lecz co miejsce wielkiej szlachcic uchodził,
+jak wielkie stare z mocne w powiecie się w kolej -
+ciebią do starze z wielkie wyrzekłbyś się zamieszany;
+wielki pod niemnego wszyscy w stodował,
+pod domu za się wyszło z powolna
+na koniec w stodoło wielkie stał na konie?
+podniosłszy się w siebie wielkie stare wyciągniej stało.
+wielki wielkie w kolej podnosz pod starze.
+wielki pod niemieniem w kolej pod domu 
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "ary,
+chciała wyjść na dziedziniec, lecz "
+-------------
+
+ary,
+chciała wyjść na dziedziniec, lecz koronie
+był porządkim był w zamknął się szlacheckim nie powiedzieć,
+sławne i przecież do przeciwnie obie szczęściem,
+jak gdy się w powiecić? - powstał na brzega,
+jak widziałem porządkiem się się zapewneniu z rejenie
+w litwie czę w to bardzo wielkich stawie
+i alczy na obrazńcały się powieśnie,
+w pas wojski błyskał się w niebioszą za niemnie,
+wszystkich wielkie nie wiec i do kapitan,
+jak oprzecz się
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "ary,
+chciała wyjść na dziedziniec, lecz "
+-------------
+
+ary,
+chciała wyjść na dziedziniec, lecz wyhajbyć,
+pod deródzy, o legna samsy s długą zimie
+na sobą licace! więcej bóg wa woszył.
+
+polskłem "tak poczutycej i w pęk płodu,
+uważą peatu poczęcile woję nic bliyski;
+skony kgość idzie grozatą się śmie gę z dwarnice.
+jedniżadów domy i dokrzył w ą księcie bior,
+ledzinę, ale z domu burzenie, którego wznowiła;
+ja w wielki kwate głos i wypisałe sędziego serchowie
+to ważnaczej głos, a cudujej zajeżd
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "ary,
+chciała wyjść na dziedziniec, lecz "
+-------------
+
+ary,
+chciała wyjść na dziedziniec, lecz szeamczanka.
+opełneją jalecła,
+wocj za sita sędzia; którą namność, kropimione zwierze,
+gdy a rękę i bęińbętka szlachta, echa suka,
+lecz posylimforawskiego okrawnym gotfaki,
+swujee kisyja, zdwóc kula strurze ą cół bez stoj ziemi;
+smieźwy zeadzać wielku coś mój bawieoną nas
+godnimów, żeby ja bliska; pomiędzównkich bokucy
+tane poznych oczapy
+dałem na niej róg jako zbrociła białym synu,
+onionne zofiji
+
+==================================================
+ >> Epoch 41/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: " ćmy, rojem
+wiją się, przywabione białym"
+-------------
+
+ ćmy, rojem
+wiją się, przywabione białym za nim szlachta,
+zawsze mieście po liście się w siebie,
+jak wielkie wypierzenia na pole słowa,
+a za nim za niedobył się się szczęściem,
+przyjacie się szlachta się w panu na wielka,
+z polata za nim powiedział się szpadał,
+a na koniec w siebie pod dama się w szara.
+
+w pole słowo się szlachta na pole szpada
+i w pole słowo stronę pod moskalimf
+i szczęściem, że się w szale się w niebioro.
+
+przed szczę
+
+=============
+----- diversity: 0.5
+----- Generating with seed: " ćmy, rojem
+wiją się, przywabione białym"
+-------------
+
+ ćmy, rojem
+wiją się, przywabione białym za szlachcic lem,
+jeden droga po polskował się z wołał się z domu,
+krzyknęła wypiększemi krzyk wielkiej z koneu,
+ale się nie zamierał się, choć się w takie
+wznociego z jego się słowa wielkie kraszczył,
+na pole; ale pan wypolewany,
+i za siebie, jak świecie się nie przygaszał.
+
+"ma szlachta świecie jak obadwłego zaraz,
+powiedziać i do wielkich, wielka tadeusza.
+
+szlachta jak lewcze pod z ludziec w 
+
+=============
+----- diversity: 1.0
+----- Generating with seed: " ćmy, rojem
+wiją się, przywabione białym"
+-------------
+
+ ćmy, rojem
+wiją się, przywabione białym dobrze,
+wstadu bo z każdym rą, mojajowajha szlachecku;
+puszcza latej łożbyście; bo uciszeto, sędzia,
+jeszcze do płaki okręcie się po dłoni.
+
+się niebo czeladku uderzać no środek,
+albo zda wiwat by krzytnie, cieszcza dawnego rozbrały.
+szła starzech posłów przymiem zostawiał;
+tuż wezwrzyna rynu! zosiu; kto mamkinąłsza;
+młodziały ja wimi szkla pinkich od!"tarną;
+dawniej zaoweska pierwsicy krzyk utrz
+
+=============
+----- diversity: 1.2
+----- Generating with seed: " ćmy, rojem
+wiją się, przywabione białym"
+-------------
+
+ ćmy, rojem
+wiją się, przywabione białym swych skinae,
+tak stronę niepobyj rękę wno taki naświecia
+długo nabał tymczasem, zaryzgotone łączeć jakby u".
+jeśli ojchem się; jużcz po lesnie -
+"ja ż i haść mi, aźni się harszące sczewał,
+odmywa się ma pierwej swoinkiej pońsku,
+rowałkow sam drugownyk kroków rejko; z od?".
+robak :ń wmieli za kwerę: myśliśmy! -
+"pana rzekł: "nie sam progarala hnisdość, goły szuchując swym z mieście
+królanej łścia
+
+==================================================
+ >> Epoch 42/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "ą!
+zaiste! nic tak uczuć w sercu nie roz"
+-------------
+
+ą!
+zaiste! nic tak uczuć w sercu nie rozkom.
+
+tam powieścia w powiewać w konia wszystkie stronę,
+pod dawnych przed nim na koniec w powiecie stanę,
+powieścia na powiecie wielki pod dobrzynie.
+prawda, że nie wielki pod dobrzyńckom powiedzieć,
+a na koniec w koniec się w koniec na konie?
+tam powiedział się z góry na piękną się w powiecie w komieny,
+która - rzekł sędzia - rzekł sędzia - rzekł sędzia - rzekł w konieck w powiecie się z przeciw
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "ą!
+zaiste! nic tak uczuć w sercu nie roz"
+-------------
+
+ą!
+zaiste! nic tak uczuć w sercu nie rozpowierzy
+podkomorzy powiedziano wyprawiał się z wojna,
+kiedy na pierwszy się w rękę w łąk powiedział:
+sędzia - krzyknął godziny się widać, że w ręku
+i krzyknął, na koniec rozkiem wielkie przeciwne się w powiewać,
+ale przed moskalom wielko oprzywycze powstanie.
+
+więc kamieni z wielmożny się na powodzące,
+pod raza się pod dawno zawsze chłopiem na braci.
+
+znowu boda się w kochanków na zamknął i w poj
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "ą!
+zaiste! nic tak uczuć w sercu nie roz"
+-------------
+
+ą!
+zaiste! nic tak uczuć w sercu nie rozmajowi
+jak przyczynie, z cztelubę chwilę wyrztzić częgre powieka,
+wróciwy zrazkówce serko wraz go zdwoża na karbęstrów, na strebłe dajowanku.
+tadeusz, a machupcką bezmamię, stawię litwa?
+jacesu tak przycieczka wyszłodził wojskielu przeciecze,
+orsządczył w nimto mnie na postylny,
+ja po rozpieść oderzał możi całe wypodziui:
+byłam wielka drugich, lecz choć na cękąty,
+stołku się głuzstwość ma panie na
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "ą!
+zaiste! nic tak uczuć w sercu nie roz"
+-------------
+
+ą!
+zaiste! nic tak uczuć w sercu nie rozkębą.
+cór".ź pięknie białe zosią mięstka.
+tłumiek, ciugo, wizy żadać się ją widokie,
+przynaby strantem, hałośmi wiasło jazdurny,
+wielki kto go wobrej dampie!" - szyśeba i derzały.
+- to wszysk górzeją, odlewinowa:
+prawda! rózy wstępuny podeę wskrady,
+czyją grzybną miejsce powięść szadło; prysko,
+drugie długo! bieża wszód człowiek pipiłą zgodą,
+i mistr gałuść, nikt całowa z wwetoży.
+horeszkań, kolun
+
+==================================================
+ >> Epoch 43/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "fajkę i rękę telimeny złapał,
+chciał tań"
+-------------
+
+fajkę i rękę telimeny złapał,
+chciał tańca z wolna mógł wojnie, pod dale
+i szlachta potom z rozpierza się z grzecznie,
+w koniec strzelba się z powieści przeciwnych zabrało
+potem z wolna mógł wiele stróny się z drugiej stronie,
+wszystkie za nim przyczynie szlachta z wiele z niebiosze,
+w polskiej strzelba się w koniec strzelba,
+ale z tym zabrało się z domu zwierzać,
+dobre się z góry na koniec w drogę przez starze,
+jest tak się z polskiej 
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "fajkę i rękę telimeny złapał,
+chciał tań"
+-------------
+
+fajkę i rękę telimeny złapał,
+chciał tańcu polskiej stało krzyczenie,
+strony z wiele rozważyć i w każe stróny,
+w szystwa się zamku na się zająca, słucha,
+z tule, małośniach strony ryku mojej,
+że się w konor tu czarnych potrzeba w trudę,
+że tak szlachta się jak w karczmie gości,
+w stodowa z kompińca zabrania się konfede,
+jedli przez zając w dziewicie strzelba sędziego gdyby,
+przykrzył na pierwsze, a coś na koniec przesuwał,
+znając się z 
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "fajkę i rękę telimeny złapał,
+chciał tań"
+-------------
+
+fajkę i rękę telimeny złapał,
+chciał tańca nim niestadcie w ęleste - d?
+ze! nie on blekan od słońca z tyłujscy przystawona,
+niezwalaci kalcem dumany w, botucze,
+na to od zosia, hesb czekać: czujnie wkomnieje,
+doszadził się przez koniec zaołpetać "kobiep,
+wyczwi: kród kcóry uż lata trćwów patod w zopowiem
+panieską ostapże siedziało strzelski
+wypraw ty próż jary styszał się, ażeb leąwu,
+że się w norszczylny ogrodu, choć ptaki,
+prócz sztab
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "fajkę i rękę telimeny złapał,
+chciał tań"
+-------------
+
+fajkę i rękę telimeny złapał,
+chciał tańcunajebrka! to przemóry, w arbnusi,
+dmał się z fet maćka popisać! - w siebie;
+ale"n z chlubiła z uistom lepełów kakli drugie,
+niż żegne rałajnce, to być chcioty,
+dziada ywy przycięk, szczyścią odlósć,
+ci par
+tu id(nne,
+starów czy z nanowieniem, że sam zym słaźzy
+przez kusy wlatę fołmotymi rozwócjęę, dążowy!tam,
+ędzi takąc tem gdynobie
+tefa! ty księżył rzekłym - wracząc: rzędu.
+może złacia, na knic
+
+==================================================
+ >> Epoch 44/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "oli, barwy brała ciemne;
+zaczął marzyć, "
+-------------
+
+oli, barwy brała ciemne;
+zaczął marzyć, po wiecznie do przyszłodnie,
+w polszcze posiedzi się w powietrze się z końcu, z tyłu,
+choć w powieści posiedziwie za przyszłodził,
+wstał się w siebie z kolei wstrzymał w komniej strony
+i szlachta się przyszło się z powieści powiedział,
+a więc za szlachty z dalsze po przyszłodził,
+a nie podstrzelba, nie podniesiony się z pola.
+maciej się z grzecznie się zaczęli wszystkie wielkiemu,
+jak brzytnie pod
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "oli, barwy brała ciemne;
+zaczął marzyć, "
+-------------
+
+oli, barwy brała ciemne;
+zaczął marzyć, pod polatni się przy oczy;
+zachwał po gromi do dworu: wszystko tak asesor,
+a nie powiem graszczy, pod objas zostały,
+za powolne na pomiędzy zamku, z drugi,
+a wiem zawsze objaci? tę wielki w drobę,
+jak posiedzi przy poglądaj wstrząszę się wychurzy;
+więc z potrzeba, że przy końcu szczwaczów
+do każdej po przyszło, że w polszcze natwarta,
+bo rzekł w nasz rozmawiał przystał w tę zamku,
+stał się z dala,
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "oli, barwy brała ciemne;
+zaczął marzyć, "
+-------------
+
+oli, barwy brała ciemne;
+zaczął marzyć, moskęczej humnie miał wołu.
+ow, w orje wielmoda na polelonej serna od;
+tłos, sku zojernam się mocnośczów przyszłodził
+i bachnerej objaćki. u rękazi - sichę,
+posądzała, znikszący nań z wojniemi pomiszyłem.
+a grudki zwycięz, skradynać.
+bo tam, gośmerz ksiądz gromi, bez konież,
+w powiem mógł i krokie, ja napomannych nim tono nich bot!
+
+tak szpadkować przez wzrobił waórwa, a za pos fraszu.
+służywae kr
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "oli, barwy brała ciemne;
+zaczął marzyć, "
+-------------
+
+oli, barwy brała ciemne;
+zaczął marzyć, zjaciej bóg w asoblicy przyhtęlu;
+bo pięty dla dołebrawszy - z nose te  źwierz,
+zdać ze stołkierów się bóg wiego! choć oczwaszwi "michlcztwa,
+i bardzicze dotąd nad sobą telimene żei
+ulbezez izwała rzucił, a wożeczną kogo!
+kto razem liczącą zaraz pagu liście śmiazle,
+stki! ja krzycani wnatówem puszcze celu.
+biedą tuszą przy cietkcęą maję bardzo rowu
+posły chce jak rzecz śniapnęł gością,
+omiem. buło
+
+==================================================
+ >> Epoch 45/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "ę zwrócił,
+zażył dwakroć tabaki i przeta"
+-------------
+
+ę zwrócił,
+zażył dwakroć tabaki i przetargniony,
+nie wiecz się zapraszał się z dalsku przeciwnika,
+pod dam się zawsze moja? przecież zawsze znajdzie,
+wszystkie przecież z wielkiej przecież z wielkiemu,
+wielkie szczęściem z wielkie szlachta się z wielkie po przeciwnika,
+wielkie po krzyknął? to wstążka wszystkiem,
+czy nie może w niej skronić w siedztuszka,
+w konia strzelecznie się z wielkie po drogi
+i zawsze moja! - rzekł spór przeciwne p
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "ę zwrócił,
+zażył dwakroć tabaki i przeta"
+-------------
+
+ę zwrócił,
+zażył dwakroć tabaki i przetargnej po taki
+przecież i w polat jak pan czy nie możi,
+jak sprzecznie powieści do skrzydło, nie skromi;
+przypokną! chart zwyczaj, czy się na wielkie po cieni.
+i skroba do zamku chciał się w polską gwiazda.
+słowo strzelców mu się posięcną wzdrusił.
+
+goście w krzyk przez tak od nieprzeciwnie,
+jak dwie zamku po dzieci powiewać już przez tamu
+wszystkich przez moinę wszystko widział,
+co się znajdziesi 
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "ę zwrócił,
+zażył dwakroć tabaki i przeta"
+-------------
+
+ę zwrócił,
+zażył dwakroć tabaki i przetartości,
+jest i bonu pankęginów kapra. - teraz, robak przechodził jak niż nosił;
+wspomurach major sfum tobie, co się znoz,
+pan sierbą ąławali gdzi na zszędzienia;
+ch na mści; tym z rzeką  niej litwo: przeszłozny jęgi,
+dobyje udobydał:
+"kocale wielki babon, był przy laty, je,
+w soplicomi wigwiło wilnkiem złóterz, obreszło,
+wielkarkom oglądając, mówi:
+"ilujrać cidnie pamiętacieny, za jednej śsięty!
+z
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "ę zwrócił,
+zażył dwakroć tabaki i przeta"
+-------------
+
+ę zwrócił,
+zażył dwakroć tabaki i przetajnce płyna"!
+prawi pons"? kto cący pilaj szając zdobicdy.
+bryjaj dusza, skończopiłem splątakwałany:
+mosp! a zycomkisi w panów trzymusi nikt dło.
+winedziecne na brzegiej szcuę,cza prawiota
+pochwało dwuba prosty purpnym (to lej sercem;
+u os wyczek? niby na wtłudził, słowów: ręką czenniem,
+zapieszkom unikąc małośmyś? będziego,
+skąd? z latr zażowszy; moty od nocie; przy kąpiał słuchać,
+tam pańskieji z
+
+==================================================
+ >> Epoch 46/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "ładząc faworyty,
+rzekł z uśmiechem, a by"
+-------------
+
+ładząc faworyty,
+rzekł z uśmiechem, a było się do strachem,
+pod marszały stania się wystrachaje w powiedział,
+a pod dawno z dala było się przysłowie:
+wszystko pan sąd powiedziała się jak do powiedział,
+a w powiedziała się wypierwej szerokował,
+że się strzelby skrzydła się wystrzelić się w powiedział,
+a więc za szali się strzelby z grzecznie wystrzelić się z domu brzegł:
+"więc za szlachcic strzelić się w powiedział,
+a wojność z powiecie 
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "ładząc faworyty,
+rzekł z uśmiechem, a by"
+-------------
+
+ładząc faworyty,
+rzekł z uśmiechem, a było się mu wiwat wojna
+moskalom, pod dawnych przymawiał się ubardymom dowieści,
+ażeby się wiedział wielki szczęściu się zaranie,
+w swym przy kształt był w księżyci się i z gości,
+horeszków z kropieństwa tu scyzała ulbotu,
+odgłos kołu dwiem przypół na szkadź jestem stało,
+zając mniejsze się straszni się wyraz konie.
+wszystkich koralek podniesionął w noszem kula
+i strzelby nie nim oczy ja malarki kro
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "ładząc faworyty,
+rzekł z uśmiechem, a by"
+-------------
+
+ładząc faworyty,
+rzekł z uśmiechem, a było, mybii szeregi;
+między z którem wasze dajskiej słucha, oboję
+inogi denoknie, jak tar; wd moskala sędziańnonął
+i przypuści po sesor zdaja chmut która, od siedarze,
+polija poźna schypa: palurów wola,
+że sąd, zabawy, porzący bez tapeustwo, jako;
+czy stod; nim zgrad rzekła głosą prawa trąby
+dawo czasrą skroni danu, za zamej wodalnę;
+usną: dziąć mę.by mu na pierwszy muzy,
+cestał słońcą na pochylania
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "ładząc faworyty,
+rzekł z uśmiechem, a by"
+-------------
+
+ładząc faworyty,
+rzekł z uśmiechem, a było tury, gdy państwo,
+boła sędzia ze litwość i zrobić tadeusza.
+pastalów kulo surtają ku ropieą ogądzy.
+ciekał braby; dało obronić, ku bij; nierów,
+że kozajscki, panią , króleszą dojewidek.
+było błyskalna on płubnie bychali:
+"jest napisanym równa żydamy bliży klasy
+na; daczy chłod wyserzły, podskoga się poziemaką,
+gniałladł, ażeby; ja wznosił trzeciła! grzciałć 
+norców wypiszefełacką
+u soplica, że
+
+==================================================
+ >> Epoch 47/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "hwytają broń; kobiety wznoszą w niebo rę"
+-------------
+
+hwytają broń; kobiety wznoszą w niebo ręce,
+widział na domu koniec na koniec za nim powiecie
+na nim stoła się z niej siebie z rejen powiecie powiecie,
+wszyscy kontusz za nim powiec przyjacielem.
+widział na koniec widział i słońce w powiecie
+i powiec wszyscy słońce wyszło za nim świata,
+nie widział na koniec w siebie stare wyszedł w powietrze,
+nie wiedzieć i w powiecie szlachta z wielkiem na wielkiem krzyk się widziałem,
+pod szarabie z c
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "hwytają broń; kobiety wznoszą w niebo rę"
+-------------
+
+hwytają broń; kobiety wznoszą w niebo rękę
+i szlachtę i powieść! odbys na powiadanie
+z konia przy koniech wynian woło w powinna,
+każdy po łaciony krzyk za konieck nie zgaszła kono.
+na koniec w powiedy co chcąc, za powiot marowie
+poszło nie nazywać się kropiłh porazem,
+on - rzekłem za słoną, wyczha!" krzyków,
+trzyma jak miesięczca w nowu postawnicze,
+za niebios sporów do skoczył w nasiał podałość,
+pod szarabie jeszcze z jego ona za niebi
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "hwytają broń; kobiety wznoszą w niebo rę"
+-------------
+
+hwytają broń; kobiety wznoszą w niebo ręce,
+wskoczy: "czy na czasem żegnając nie nie paniek,
+tylko zleszczaje z góry opałam mej cery
+śleszcza pono wy tysiące machem,
+asą na wzniernym dla na rłocę porzążo, jakość nabika:
+ale minął za oczach nychążyć, drogi gazała,
+bez kołpam się bawił okuj nieraz żebieli.
+duszę z fudnośt grota mymgnął z cumkam kryźwami
+i przestrzą obradzanie sędziego swem już gałki.
+przypadna, znuziła, niechowa ku ona no
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "hwytają broń; kobiety wznoszą w niebo rę"
+-------------
+
+hwytają broń; kobiety wznoszą w niebo ręczy!"
+
+iosy zgadki z wojewneli urzędka po lod,
+mają jezrać, ja zwykli wicyzne sejmnych wodz.
+
+pozwolano śniady, już ceławka, chodzić, zamyzań cy
+zauęła w łapiwał napwartem, śbiacek właskim.
+szlachta tłowa, puszczy wwięte do komną.
+okami wrzasbem na wierzył oczu,
+bobują podziwnemi! - kłażą osobnyej hiszka,
+z uchocie zgonęła, jakby wszędzie mustu,
+wyskazyia pomnieć, ani udwę jedlibony,
+móronaznę pos
+
+==================================================
+ >> Epoch 48/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "zku,
+rzucone w ciemny błękit, nabierały "
+-------------
+
+zku,
+rzucone w ciemny błękit, nabierały się z wielmożnie
+i pod dobrzyńskiem za drugiej szerokości,
+a wielki podobne się z dalsku wszystkie z drugiem się z daleka,
+gospodarstwo zwierzano się z pozwole z powiem, strasznie wyszedł w polska na powiem,
+chciał w polskiej szlachty się w pokojewy;
+telimena się z dalskach nie mogą się z wieszcza po zabie.
+
+te gd w kompicy w konia wielkie pozwolę śmielił,
+a wielki pod dawniej szlachta o wielmej s
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "zku,
+rzucone w ciemny błękit, nabierały "
+-------------
+
+zku,
+rzucone w ciemny błękit, nabierały w siedzi,
+tylko wszedł na polowaniu wielkim rozkaził,
+a obojejenie w prosty, nie wielmo nie by i pale.
+major te, obrazy z swedni z gromienie, z wieszcza żada z wielkiem,
+czy przy prost złot komnimi się gromadzą
+podszedł szlachta wielki do twarku pod dobra szlacheści,
+podziały prosi, czy na powiem, tam ręką, jak gromadził,
+z albo za szabli szable, lecz się z grzędko,
+jak wielki czekać podobne pozna
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "zku,
+rzucone w ciemny błękit, nabierały "
+-------------
+
+zku,
+rzucone w ciemny błękit, nabierały obrazy.
+przedzierliki z niego szlachcie czole, wora.
+ś dawnegomen, kasztować pan, tule;
+nierowanych nowy scymigli, nie zwiąsnądy,
+pachgi, choć gdy półów, śpień a gwiastem nierody
+patrzy, na niego siedzi, że proto moje, postrzegłeścią,
+rozkięcił obrazy, kwóry jeszcze tyzałszcząt,
+gróbił młodzieńmach albo progo w sztowa usią, cóż w czasie?" sam spańszcują, jej stróżny: tam szaranków siami się i głzy
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "zku,
+rzucone w ciemny błękit, nabierały "
+-------------
+
+zku,
+rzucone w ciemny błękit, nabierały jak wyskorawy!
+na ęch rzucił jej chrsw, że creszką imby,
+samkiej powie: dlszeć! - wzbolcy, kodku idołyko,
+publej, trocie w powarte głosop półet; podkomorzy,
+i kapelta! boi biadobych skrzewał się od nasicórtu
+i trzymał dzieje dobrzymu burzała prawa strobie
+parzulego zadzwolej skronić myśniu jazdy
+z łagnuszej i i żę krzążami dla jako,
+idów gęszczarom i czasu: owiwny czelnie!" i dyjała głyom z wyjęzy
+
+==================================================
+ >> Epoch 49/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "zbyt czynnie rozszerzał nowiny,
+klucznik"
+-------------
+
+zbyt czynnie rozszerzał nowiny,
+klucznik od powieści się w niej nie pozwalane,
+w powiem powiewać na powiem strzelców wielkiej szlacheckim powiedzieć,
+po powiem stary major to jak w tym powieści,
+polskiej wielkie po niebios spojrzał się w komendzie.
+prota powieść i sztuka w takował, że po takiej w powieściem,
+a na koniec w niej powieści powieść z pola.
+- i przetem w niebios powiedzia się w konie!
+przecież z przecież z powolny, nie wiem, 
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "zbyt czynnie rozszerzał nowiny,
+klucznik"
+-------------
+
+zbyt czynnie rozszerzał nowiny,
+klucznik skróbł pan z wierzcko, to w tej powtarzynem;
+przestrzecznym pokoją w niedobody w cielna,
+powłasy tak i przeteż szanowa, skoczył,
+nieraz błyskał; kto był obietnie sposobie,
+po niebios spoziorła był, że robak, biegeni,
+tak muzyka podróżny, że się trzeciej -
+już przeszło przyżej nie przecierczory nie takiego,
+po ostatnie nie odeseraj się mownych,
+czyś pan na kiedy to jest powieść wychodził.
+jak by z
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "zbyt czynnie rozszerzał nowiny,
+klucznik"
+-------------
+
+zbyt czynnie rozszerzał nowiny,
+klucznik nośtuny poślój wońs pytano dlęty,
+potłość wiele w nieby żardym, a zawadkowy
+smycza; padając, a jak było wierzwał;
+i doświesów, sam potwym z latają panewie,
+jak w świąty razeba wymoczyj mę, skrobą jackiewie
+mieszkawca - i aśniej sławackie już cerny:
+ledwie instrujłych półstał błaknyć na sposoby
+śmiała do klejnokałmi gości jegrtewił usi,
+każdegich, że, a prota, że przetrząrł w komistwa;
+znadział, p
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "zbyt czynnie rozszerzał nowiny,
+klucznik"
+-------------
+
+zbyt czynnie rozszerzał nowiny,
+klucznik wielkiej wrzacki, jak not westelbo czy
+muronem, co byna pcierna swym niechcu poło;
+w nagci ano wa, pyłanów przetrzpierz greciwe.
+odostały ogrodek: jenerało wciekreczy.
+albo motem, z grzachch córki ciekniwe, u ławał;
+na komor ludzi, że zaświeknoni mój polska "icząwe,
+nar"miło rękę! - gdy zmieszcznie niewychurzenie
+chciał kazelśmyściego w śliszyi, cytnie obliżs.
+to jest? mężczyfe wirność; bramias p
+
+==================================================
+ >> Epoch 50/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "bladnie,
+prawą skronią złożone na wezgło"
+-------------
+
+bladnie,
+prawą skronią złożone na wezgłował się w powiecie
+i pod niej wielkie stronnych stronę szlachta,
+czy nie wiedziałć się po wiatr w niej wielkiem
+po wszeczką się w poznając z rejent, konie:
+"ja człek
+i w drugiej za niej wielkie szlachcic się powalcem
+powieść z powojności się z wielkie szczęście
+wszystkie po wielkie szczęściem się w powieści,
+nie widziałć z powojności się z powodzy,
+stał się w poworze z tej wojski strony się z niem
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "bladnie,
+prawą skronią złożone na wezgło"
+-------------
+
+bladnie,
+prawą skronią złożone na wezgłował się grzeczkiem
+strzelecki za przeczymy się zaczął się się zdję tobą naóry
+i po powor i powiecik po wieczerza;
+po wielkie powierzcząc w pozwolnie powalcczę,
+do borówe powojne ogrodzie bracie
+i wielkich grobie. ja chrzciciel po grzeczni,
+które pan i i stryje! tak pod dobrzyńscy,
+podróży podniesiono zrazców pod konec na położy.
+
+"jest w szpierli się zamierać się z powodził,
+od wszystkie powiadano
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "bladnie,
+prawą skronią złożone na wezgło"
+-------------
+
+bladnie,
+prawą skronią złożone na wezgłowi, jakodynym;
+jedni w zamąd się kończyli w niebo do strony;
+usterbe os nie mabiętk, przebalisz, gumnilił,
+szykla! bnie z wiadłu na przykład jazdym,
+a przedziadł każdy szcze puszczej cołowiał,
+bronię, wyszedł podobnikać pierujszego w ;
+szczy do kazento w przed bracie biegłem sowy
+wystrzecz, nosił wyjedwnym kuszczli okrywy
+i na niej pu wiszaniu go poluby słońce
+drugo zostałzić w jank-im strzelem, p
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "bladnie,
+prawą skronią złożone na wezgło"
+-------------
+
+bladnie,
+prawą skronią złożone na wezgłos mocno dwemnie
+i mgł!"
+zawsze łodzki
+i i w imienie jakiża niech z zaś i do żółtnę -
+sto w tym niekótość wdzijecką w obadnli 
+głążar? i ubieśni ojszozał wtenczasem sakiemą,
+podnięć, cewnym zrotisoczekęc deżył we stuśnio.
+ze, okozia radziaca
+naderstają chciał stronio aława!" szie
+i szlachta jasć, czeczął o wszasz, by gotące;
+zesłała głaśniaberz gosspytwo pogawca!".
+powiem, prerpewy cały etknąwezięt
+
+==================================================
+ >> Epoch 51/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "ej warście
+połyskają się blasku miesięcz"
+-------------
+
+ej warście
+połyskają się blasku miesięczna wielkiej szlachcie stałem z kolenie
+i podkomorzy się z wielkiej szlachcie stare,
+zaś podkomorzy się w powieścią z pokojem
+i wielkie powieść i pod podobne powieści,
+nie wiedział na koniec się wielkie strzelczy,
+czy przeciwne w niebiosz się z powieścią z pokojem
+i przed niej na koniec się w powieści powieść
+i powieść i zapale, pod stołu powiewał,
+a pan pokojniejszy się z koło strzelców z powieści
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "ej warście
+połyskają się blasku miesięcz"
+-------------
+
+ej warście
+połyskają się blasku miesięczna się jak wielkiej szlachcie.
+
+to się ognioweje szlachcierzkiem brate,
+i słońce krzywsza się pierwszej wielkich rozuchu,
+ale na koniec i przecież z domu więcej wieli
+podzielał mu stryj - przeszkowie powiedział,
+nim z ostawić z przyjarzy na kula się zwróciła zwróciła się powiadać,
+i wielko, widać, że przeszło wielkiej głowy,
+a wielkich, którąc się wielkę, widać, że nie dostał,
+że przed niej chłopi
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "ej warście
+połyskają się blasku miesięcz"
+-------------
+
+ej warście
+połyskają się blasku miesięcznie żegnop,
+przybłoku wieczerzał kołkale uderzył,
+aż zaczeniaem stanowi siermon obary!
+srebra głosami, ubędzą jego drugich, grządam:
+dabnie dziś w zabawki prawie zmię przeciwneście
+alzy powieszać się dwie bunale tedano na głębiąte,
+jest nowej ryka! tłoy na drugi, pyprawy
+ten ja dotąd z mniej krzasztwo przełtemi jednem wtenczaszy.
+już powstał i z wazieniej, co promiem - w kontusi,
+że na tej powiada
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "ej warście
+połyskają się blasku miesięcz"
+-------------
+
+ej warście
+połyskają się blasku miesięcznie senraju,
+aż nieślewach przymnyj bia, pośladział wczęśnikiżummem,
+jak hrabie brakatnnie uważą się wyzgardzeko".
+
+czaranka podalu jak przybliła obłąb,y,
+głowajy stary czla? powiadła.
+zachlę zna dome nie jeśli dwie stawiał powiecie urzędziany.
+wech wiewców płonianebrowisła brywaów sieli,
+niedźwieda szlazcy, opuńcy kganąc się nuwić
+mężawigna szerc rzucha krzewa do tymskiem;
+wkręca pańszczęki zdoby
+
+==================================================
+ >> Epoch 52/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "gające pręgi
+z otworu czarnej strzechy, "
+-------------
+
+gające pręgi
+z otworu czarnej strzechy, jak w powiedział się z domu, nie wieczerza,
+z wieczerza powieści się z pomiędzy wiele
+i wielki strzelać i do strzelać się z królazna,
+nie za nim pod do zamku pod domu do domu,
+który w sopliców się z pochodzi pod domu zwierzał,
+lecz to wielkie strzelców się z domu, po drobne powiecie
+i z wieczerzy pod do domu wojnie, wszystkie się z powiecie
+i szlachta nie wieczerza się w oszak szeregi,
+gdzie do po
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "gające pręgi
+z otworu czarnej strzechy, "
+-------------
+
+gające pręgi
+z otworu czarnej strzechy, jak dziś nie z nim do zamku do zachodzie;
+zaczął się z poglądał z królarskiej szerzł, tam was bezmał,
+że nie wiedział wszedł się z domu wojnie,
+pod stoło nie wieczerzko z dworze do zamałe
+telimeny powiedział, że po dzieli
+czy z oderwał poteż z dawnicha się do przedział,
+jako rozkom obadwie, co się wojskiem:
+więc postrzeżomi na wzięta - rzekł sędziego pięty,
+z gniało po wznosi: a to wrogle z domu; 
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "gające pręgi
+z otworu czarnej strzechy, "
+-------------
+
+gające pręgi
+z otworu czarnej strzechy, ceści, wyładki w tem głowy;
+jako dziedzictwa drzewa ostałbyż już kwymisza.
+trope witaę! po starejy w cza koć: kuscie.
+na myśląwa lekną; więką, a coś i siennim do dzieźmo!
+niedźwiedzie do niej się w abernych z od:
+poźci! jest , prawał z pokół mospaniów!"
+
+robota stod, kręcił się do klucznak - paniem,
+major r! to jegry w prawi i poteż - złote.
+
+jeśli przedzpatrzą, i cało my zdobył; telimeny,
+a pan p
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "gające pręgi
+z otworu czarnej strzechy, "
+-------------
+
+gające pręgi
+z otworu czarnej strzechy, maęswki takje w co?, ów taki na soplica,
+chłopskiejmej odszczę, o drubne jej rzuci,
+o ludny, cóż? - rzywa: drugi nieraz w każdacku renhałem,
+już tym milcząc na wpadł tobe biegn.ty!
+marowga jak drawić się rów, wszu mowich świeciło;
+pani żawili wne o tawem kewu, gładszczył,
+którem. nas zaucłość zarządę na gość łowchcu,
+namyścijeołało każdym francusach,
+rodzenierkę - "justano bylzu - mój to iczę,
+prz
+
+==================================================
+ >> Epoch 53/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "by do pistoletów przyszło lub do szpady!"
+-------------
+
+by do pistoletów przyszło lub do szpady!"
+
+było zapadła się do powiecie wiele się w powiem,
+podniosłam przeszłodził się zaprawić się w niej horeszkawił
+i za słońcem strzelcy się stała się w powiem,
+podkomorzy się w koniec za niej szlachta skrzywał,
+pod stoło się z domu strzelem się w powiecie
+i przecież z wielkiej szlachta jest to wielkiem,
+wszyscy w kolei w komitarze w powiecie woje
+dostał się w siedział się za siedział się w powiem
+i 
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "by do pistoletów przyszło lub do szpady!"
+-------------
+
+by do pistoletów przyszło lub do szpady!"
+
+przez oczu moskalowa zrobił się z moskali
+trzeba sopliców, jak braknął powiecie wiecie wojewy.
+bo choć się po łapony porzekł się i do pierstwie,
+przeciwnico konopie, na wieczerz na sami
+i słońce słuchał do was bogaty szerokiem,
+mor się z braty zdarzy, jak grzeczał się,
+a każdy podkomorze i przed postoł tamtej,
+jest biegli wielkiej w kropiersły zakryło.
+w takował, a tak obrazła wielkiej szczęśli
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "by do pistoletów przyszło lub do szpady!"
+-------------
+
+by do pistoletów przyszło lub do szpady!"
+
+mamej warza jakchciąc powiesły, długo i eniewy.
+
+krono zbrojnął w ręcem: jakby rozmawiał się,
+spezniono, po litem nadzwoligniej po ścianą.
+mnie grał to sędzia zabić i wiwatem na drugi!
+telsy przekrwał od powiecie miły pociąc kływale
+widzi, lewnych, skomuj stonął był i złocił,
+i woła ramiwał się szpaczy uste wpana
+wziął pacią wiec wiele z pows zrobił,
+żynąw: rozsił prochwa, niespojejsów; to my p
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "by do pistoletów przyszło lub do szpady!"
+-------------
+
+by do pistoletów przyszło lub do szpady!"
+zosęda koronyce był panienki, już już nowie,
+trzep mówił w najwyjącza szanu, i puścił,
+afiasem jezdzi! udobrymi, każdy patrz łączy
+człenionę po isatem zam szotkowe wteszy,
+szyję, sienili odmieniła się obracił, borze złowi
+usobą w mieszcza rozmarzy, mrzącne, gróżą jegość!
+w góćby w siobośpierawić, i mku wiem, kwistem sryków,
+a pogładzank ubędzo, jeż noz, o za, tojądzi,
+wzięła i kichliniwy, jak by
+
+==================================================
+ >> Epoch 54/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "szpiegi,
+odkrywszy jedną zdradę, poczną "
+-------------
+
+szpiegi,
+odkrywszy jedną zdradę, poczną się z konie.
+wstrzymiej szczęściem się w tego się w powiecie szlachty się z kręcił się w pokoli,
+zabył w stary się z królika się w powiecie
+postrzegła się w stary się z polach wiele
+czyni się w pokolan w koniec się w korycze,
+w stołu po starz się w powiecie w pomnij od stołu
+i w koniec w koniecie, tak zamku wielkie szlachty się z drugiej strony
+za niebie w polowane w powiecie szlachty się z słonąc
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "szpiegi,
+odkrywszy jedną zdradę, poczną "
+-------------
+
+szpiegi,
+odkrywszy jedną zdradę, poczną tak wołał,
+pod rok w każe nic z dokórte w pomnienikm,
+czas strzelan w szedł w rozkom pochodzony,
+była się w soplica wiecię się w panie!
+tam kospora w niej swe siedzwie z drugiej się kochał;
+między się w kochanków pan w kula się w niebiorem,
+czy w kościontwem wymyśli i ogrodzieu
+w się zboże wielkie ogrodnych wiecića to głowy
+zjada o cieni został się zaczemi się w murduki,
+zabywczy czas na wszystkie
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "szpiegi,
+odkrywszy jedną zdradę, poczną "
+-------------
+
+szpiegi,
+odkrywszy jedną zdradę, poczną w falbeń był zwierza drzew ziłujszce chorybny,
+pan ciłfuli jej nie zamek za nował,
+moskłay znudziek z wpadne iterzem
+tu i wymlesniec.
+tylko zolią na groźnemi nad czynie, objętnym,
+rożę, jako razemi się teli.
+
+mawiał; jak robak nieraz wiej króleł głoski ka,
+zostawił, długając doto pańszy w łasnony,
+z złotem dobyli wkiźcibo urodzte śledził
+stanie hrabią na rodziano szpady niety,
+stoim i w czas twarz
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "szpiegi,
+odkrywszy jedną zdradę, poczną "
+-------------
+
+szpiegi,
+odkrywszy jedną zdradę, poczną zatem bokchu, ponrożę
+i wzroty - rzekł cała lub na wszurach bocha.
+
+ogifiłę, a laskę - puścić, ściwno je z boki,
+poluwszą się kędziej duszę; jeszcze posztym do zwawie!
+ci z okręgnąć więce, szpadętem,, wolu, ryweków.
+podział, czyści musia się z prusic, wiżot chce, się leśnie,
+zmój przestodzy tęgi
+zwolim, ajbadendawsza szlachtę, któremi używa,
+siedziem, którę, stwom czech niebedo w ręka,
+serce dział
+
+==================================================
+ >> Epoch 55/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "olitem, głupi, u was zwada?
+nie można by"
+-------------
+
+olitem, głupi, u was zwada?
+nie można był to wszyscy w niej słowam
+podkomorzy na polskiej wolny, się wszyscy,
+zabywe w litwie maciej się z przyjarby nad przecież wyszedł w przyjarzyny.
+
+na powiecie szlachty za nim się wszyscy podzimi.
+
+"majora, że na konoła nie wielkie w swe złote,
+pod dawne w przyjarby do przecież się w kręcił się z podkomorzy,
+pod koniec chodził w powiedział się w siedziem na podkomorze.
+przez wielkie wielkie w pomięd
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "olitem, głupi, u was zwada?
+nie można by"
+-------------
+
+olitem, głupi, u was zwada?
+nie można było pan w grzecz się wojskiemi
+i zamioty, na przez wisiała za robaka,
+i do wrzoślił nagając mając w siebie wielkę.
+
+słuchałbym się woźny do zając, jakby w słuchał.
+
+wten zaboletmy ziemię sędzia przy dziedzicza,
+dybronić o miejsca; wszyscy w pomi . to wszystkie miała bogaty,
+po powiadał przeciągę nie szczęśliwym wyputko...
+więc na scyzorykiem wypisów w to moje zaraz dobry wodze.
+
+zaszczyczy, a na sz
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "olitem, głupi, u was zwada?
+nie można by"
+-------------
+
+olitem, głupi, u was zwada?
+nie można był wiążą zwiedza, o i dobrze jak przeszłocić
+i namiąca, dawno, chwitać? puty nic po zielo,
+co na kłoda? tadeusz, starzony strona skim sięcny!
+bóg, że gotu! ję, puszać wymawiając machnym.
+
+to powiła, z lodć, kiedym milcie źronienie,
+że pędzał drogą dzieciłje okrzywła warkach pajkę.
+"więc nia ręce tabaków zamiłnika, bardzowie,
+po ich kolino! gdy na klucznie soką światła,
+miał pokojność, żad ucitewski
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "olitem, głupi, u was zwada?
+nie można by"
+-------------
+
+olitem, głupi, u was zwada?
+nie można byłów dawszy, śroziąca! połyśla zosi,
+jąże się krwawszymi , iszcabuje, już panów.
+
+nas bliży rozmownym zaszłaste
+słysza, nigdy za niej many do podnusie kryjoma
+ymrałł włosu nie chciałgódtki mwiaszyła,
+idyi czalr  połatnej dziwię, dziwnyby;
+ni światła mioduj bugić na niemune cioki.
+rzekł, pod komisy do prod kochóldzi we szlachcica,
+wejrzenie, która blalejza to darszał:
+"mam wyjubreku, kiedy nazyknąłe
+
+==================================================
+ >> Epoch 56/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "ować.
+przepraszać, że jej kroków śledził"
+-------------
+
+ować.
+przepraszać, że jej kroków śledził na polece
+pod stranił; przeciwne się powieszają się w pomieszał,
+pod domejki wszysta wszystkie do tadeusza,
+wiedział na pastaczem się za niedowieści,
+pod sztude pod stranił; tam za niedarmaki
+się w domu starzym się wiecienia w polskich wieńczwszy,
+pod strony się wielkie wielkie potem się zgodzi.
+
+tak pod domu wielkie pod straszanom: to widziałem,
+pod stranił; tam się z powiast w niedosera,
+pod do
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "ować.
+przepraszać, że jej kroków śledził"
+-------------
+
+ować.
+przepraszać, że jej kroków śledził się strony
+przy niebie oddamie się wyrabiegać w pokom.
+
+na nigdzie marszały swe rozkępe pierwszy z niedosy,
+przeciecz strany miała z przed niedok chwilę,
+a więc w kamdści ostryj, że ten tak swejmi,
+z tego surowalom porzuch wszyscy, wymieście,
+wiesz, że zaraz wodze do posędzi, kropić.
+wrzoki wszystkie szlachta się przeciwnie z razu,
+po pas rzekł; czy miał się wiosny ma zabiega,
+porzuchna wiedziała
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "ować.
+przepraszać, że jej kroków śledził"
+-------------
+
+ować.
+przepraszać, że jej kroków śledził ogrodzie,
+jak w niedoser "myja wojowy kłamcie sąsiedzia;
+czyż nagola, w niebi staru domu dalem, perśło.
+a ma go na okwed, ciądzająca srogi się ujrzeć uchu
+i słeżył słuchać, lekkiej w tadewsty,
+panie pil trzaiserz nie mięło gło gorzeszy.
+wrzakę z koijem potem pitarny trzybiebu.
+tak! powraca, spodziałem podałem, zielów sami
+i major jak rusi zrazować jak bogoty
+do dwochszy w niegowa pobrawą na klucz
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "ować.
+przepraszać, że jej kroków śledził"
+-------------
+
+ować.
+przepraszać, że jej kroków śledził nieblisku
+na tak chwał w oknapincę, niesterocz prędzierza,
+zmiany niechyb kol, ci biegaj, cóżł truba;
+opertynie ksiadąc skrodzo, cału gładzyż dęku
+się dokroć niesię pierwią krak wasł zlewyć
+zakłana gętnyklość imieć przerwały w sędziemy
+czcho dziedzią stanął nagól w niej kęda,
+by - teni! w patrąk wziądzbrze biki płeży,
+a tymy, i wąsaj, wteż szczara porzuczli,
+biedzi to, jako ogatrowali, w wielszał
+
+==================================================
+ >> Epoch 57/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "z rozumie?
+jużci my wszystko zrobim, na "
+-------------
+
+z rozumie?
+jużci my wszystko zrobim, na powiedzieć,
+zawsze nie zawsze, jak szlarzył się wielkiem,
+a wiedziała się na konoła się i stanie strogi.
+ostalnka się pod słońca szlachta zawsze,
+wielki strze tak strze znań stał się na porzekiem,
+zawsze nie wielki strze podkomorzyno,
+major z krwiki się tak pod postawiał,
+i podniem na wielkiej stanie był o wielki,
+od podwieść jak szabę zrobie się i strwączy stał,
+jakby z grzecz nie tylko krzyknął 
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "z rozumie?
+jużci my wszystko zrobim, na "
+-------------
+
+z rozumie?
+jużci my wszystko zrobim, na stotów się i słońce,
+szczędały go naczowinie do wychodził nas wybochradzie,
+raz postała na mojem armatem konterów,
+na branie pole;
+oby z przyjaż strze podziela z tym do trumach,
+jeden sopliców do wielko krzykli, trzymają,
+był i pannie spodziewano, gdy zaczejszą,
+wszystkie nie stał się i od do to od bocieu.
+to był zbrodził mał nie tam pod kłonie,
+tak pod tyk zagładził stała miejsca.
+sztantkę, tylko
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "z rozumie?
+jużci my wszystko zrobim, na "
+-------------
+
+z rozumie?
+jużci my wszystko zrobim, na głoscho, obrócić
+wyczy złożąc zawszemcę pisnaju w jęzki,
+na wałów krokony mielkandzie; wteż że mu jakość,
+bo telimenzę w do wszedał za srogu,
+grobach gropcy do cymć zrobe żył.
+to jasnej garnie dzinki, dał miatka, spór po latej pany,
+spodziewać kiernapien niwanny rości usnaje
+znosią kamienia, to o całbył? romienie
+w bezgał to borunku, niedmaskanajej dzia oki
+bez z leąwa, wsmygnitwasznie krzyknął;
+w
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "z rozumie?
+jużci my wszystko zrobim, na "
+-------------
+
+z rozumie?
+jużci my wszystko zrobim, na boków hrabiaem;
+ty, grałt przed że oczy bodzie; mogi.
+bo gdy dziu sapieny dostał potrzymalą;
+ja złykń, z tym trzelatć daw zostuski, traś zaszczak do zachutu,
+dawnej mu wienkie ojczisał,
+i zbodka przebrzeąc za liścia łażnie,
+zaćwał nie cud mieściając się
+krypem ty? - na kim że posłuszną zgor kuchapdzi,
+prawdańczy fusznom, rywance łotrź łany łożaczne woczkom
+idnie, mosem sądąją, ni leszczale,
+więkni
+
+==================================================
+ >> Epoch 58/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "giej ogromna sala. koło każdej ściany
+ci"
+-------------
+
+giej ogromna sala. koło każdej ściany
+cię za niechał się na koniec się w pomoczy,
+jako w niebić się wielkie wielkie pod niebi.
+tenmarował się strzelby się pod podobne na podróżeż,
+nie dobył na kichniła się z krwawy się wielkiem,
+a po tym się w pomoczy na podkomorzem się w podobne podzi,
+na koniec się pod konopie powiadnął po pola.
+on tem z wielkie wielkie wielkie na pola.
+
+przechadzy się strzelba moje wydworawych,
+milczał podnieś w pols
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "giej ogromna sala. koło każdej ściany
+ci"
+-------------
+
+giej ogromna sala. koło każdej ściany
+cię i strach bramił wczche szyjemi i z głowie
+i wielki z dlateję prawdzie się przyjaczy,
+on prosy do podnalich się mówić krzyknął.
+lecz częsty, w prawiach się w polskich podniem gładnie podkomy
+skaniona się nad naw
+ołowano ten, i zający.
+już pod bokantwa pod więc zawiesz z krwiony,
+oczy dziecie; nie zachodzić się wyduszny,
+nakopoźnzie pieninemiem w polate dziecie
+u strachał, a nad cisnym pod śmiały 
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "giej ogromna sala. koło każdej ściany
+ci"
+-------------
+
+giej ogromna sala. koło każdej ściany
+cię waszyzć klęczę przew, aktąd bagny.
+na
+orć hźńcbik był hodróż przyjedzy zapeł miącnie,
+malu piłnu tak jak je dma dbalnie wszyscy odobie;
+dziś na mśln? że kąty skął, kapśły storowy,
+że białeę kokie, kiedawsze żyta rzuch głaśnie,
+rzudłonapśniej - pędy zbrodzie, szlachcica,
+uchodząc, czach dawnego 
+innych co błyszłszy ie a nakłym nad gwani.
+wielka kilnu zaraz w jazy; dzielni choć się,
+dni. to w rady
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "giej ogromna sala. koło każdej ściany
+ci"
+-------------
+
+giej ogromna sala. koło każdej ściany
+ciszył sędziejku, co kuntszą, mieścicuym grubem błyszeka.
+wiy uwierząc  u .ś i rachu czsinyma, białnej i nie czagi;
+anpodordejdał nieczmy: już podkomorzy w mieronyna?"
+
+"u uchylł! jaść u niado, uciedny w tedało, wkradych tam wyć,
+nawędził, tym zadkłotońste, gdyby skróę-hekaska.
+co żwiał ale dzi łow: nibo wtączkiem;
+a że i był gruzto wpal kiednie nie tadac-
+twapieżoł, srebai, z wpatła zosczasi lię,
+b
+
+==================================================
+ >> Epoch 59/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "dy cofa się z przestrachem:
+tak kropicie"
+-------------
+
+dy cofa się z przestrachem:
+tak kropicie się w powiecie strony się z podzieru;
+gdyby strani się pod nie"ń s"tmu za niedozłaą się od oblichilałem:
+i podobną się z pod do w pomiędzy się w nietkać się podoba
+powtarzano się w poziewać z smys w powiecie
+i po po telimena się podszczęczanna.
+
+sta nie podobne podszekanże się trzeba się z podzieru;
+przy nie zak"polce drobi;
+lecz nie podobne pod domu z gniadłem zarazy,
+podobne za niedozłami nie d
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "dy cofa się z przestrachem:
+tak kropicie"
+-------------
+
+dy cofa się z przestrachem:
+tak kropicie jak go zgadli, jak mówi!
+a czy nie odpowienie byłem zły strony się do wstystał,
+takż kręgł przyczyna się na kogowi,
+odpowiet nie po niej słuchał podszadał na gardy.
+lecz w ręku nie tadeusz skrykami.
+wiela nie poznawa i stałości do podoby
+szadzu się za mślm, a wszysc hormaszy miałacki
+litwi z w"z i ą w stanowiec odgają krzeczenie
+podobne za przerzedła swą ręcem na kopiódumak,
+chc cóg krwe w starsk
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "dy cofa się z przestrachem:
+tak kropicie"
+-------------
+
+dy cofa się z przestrachem:
+tak kropicie dobro posrzynamem jeonnikał,
+gdzii podzienjach do kilułc i żę to wtency w iąbaki
+żydzstów dowoty okrącz, potam na tadeusze kris,
+piechorki rynńża zakowdarów i brzenugi,
+a ja w pomięłowy się raz bałąta!" - chociażda;
+bieraj na pytał pisam wzgniłć się, dwoje powrządza brzadstarnie,
+uatr nie isnął z za mfonor; nij md ni przeczekany
+gdybą dusza się i mgnie z wzeabsza i wymamkaę.
+w echrus śnie wstorał
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "dy cofa się z przestrachem:
+tak kropicie"
+-------------
+
+dy cofa się z przestrachem:
+tak kropiciela, wilczyli śmyku ębiekucznać? pani braka kolam, kansktukanów
+łuchał klużdża dożył smutej wkazał się prawy
+ich je raztów lik czy opierwił, buławy, wastałecmi okronięć;
+pogady, rym lud zęsó roskach się pluca
+i orzemanjąc trdał zmecę, aledzi ogśnęlić.
+udzie, czy słzy meniątcu niby, cesicał.
+poetygny ształu że ceóo rapom w nienlce, podzieniet,
+nicz zeąkły między ie na pan dimą imp!
+podnnopazły tłago
+
+==================================================
+ >> Epoch 60/60
+==================================================
+----- diversity: 0.2
+----- Generating with seed: "
+że telimena zbytnie do zalotów skora;
+g"
+-------------
+
+że telimena zbytnie do zalotów skora;
+gdyby się staro, co się z wiesz się skorze,
+zaczeją i wielkie i dziewiecie pod wiele
+podkomorzem stawił z wiesz się w powiedz,
+a wielkie pod do zamku starowszy się w powiednie
+i strzelcy się w powiedz! obowie powiedz;
+chodził się stawieci nie ten straska z wieli,
+podkomorzem w wstdzieni nie ten słoa chwiląc,
+lecz w wszak się w staru wielkie pod do spuszczych się staro.
+
+krzecznie pod do szpadziem z
+
+=============
+----- diversity: 0.5
+----- Generating with seed: "
+że telimena zbytnie do zalotów skora;
+g"
+-------------
+
+że telimena zbytnie do zalotów skora;
+gdy z skrawdzie nie widać, ogij, że od w czasę,
+się krągte, ten stanie polowsza z wielikana.
+nie do mań córk od wiada kapsku nim w rami,
+zabrane się powróciłe i zniknął porokie,
+ale za niech polaki się poazniedntu do sieni
+w rozieli starza stąpa ołowie przykli, spuszcz,
+- pali jeszczem staru puść wielkie ciekiena,
+to od wieli i ogieniczem, patrusznie,
+starzy nie zdrów szlachcica, moskiemie,
+wielkie
+
+=============
+----- diversity: 1.0
+----- Generating with seed: "
+że telimena zbytnie do zalotów skora;
+g"
+-------------
+
+że telimena zbytnie do zalotów skora;
+gdabą i rodzie mieszkalom a wiebę tych amidy
+jakiem głoty wiecie ruch wiłę splemy! słupte,
+ten brała nie widata; sterzy i skradaci,
+a powskaskł się, a putki nie odmy zdewiky,
+co dzielia nie stąwą bernardankików przobnomsu!
+oddzieni z cicąc litwa, rzędy, cudną dyskowałm do niemam kotwody,ił
+rozkalie milczutto tary myślił nast mań przejenem zdrówichk trastównim
+gęszczą: "tane już - siu starzy ni ukta
+
+=============
+----- diversity: 1.2
+----- Generating with seed: "
+że telimena zbytnie do zalotów skora;
+g"
+-------------
+
+że telimena zbytnie do zalotów skora;
+gniłęerzu si, mirkali cernililiki: "zzprębiasbuski
+roga eterby ie 
+"ymi, a 
+"skacicjemi zdoboj, cymi marośszy, już obiem:
+lecze stuła roumiję wiewał słowąącsu były pusdreach żałdłi
+i rządząłiem jak otróg, daeśą! - "gadłoał trzeby
+ale derznni, żem horerrski. golecy trużania beztoczy;
+staemi nie dżałże, czekną blaske,
+waptunni, z obotąd, to gdzicła królasem nie,
+trejbyckołarsła
+pałącie wyrszczy, takr
+
+137668/137668 [==============================] - 70s 506us/step - loss: 2.1802
