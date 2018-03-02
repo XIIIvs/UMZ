@@ -41,6 +41,10 @@ def roll(goal, exacly=0):
     }
 
 
+def r(goal, exacly=0):
+    print("[{roll:3}] -> [{goal:3}] [SS:{success:^5} {luck}/{fail}]".format(**roll(goal, exacly)))
+
+
 def test_rolls():
     print(roll(35, 100))
     print(roll(35, 99))
