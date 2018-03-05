@@ -102,6 +102,14 @@ def s2h(s):
         h += 1
     return h, m, s
 
+def s2d(s):
+    d = 0
+    h, m, s = s2h(s)
+    while h > 23:
+        h -= 24
+        d += 1
+    return d, h, m, s
+
 done = 0
 all = 0
 before = True
@@ -116,6 +124,6 @@ for ep, h, m, s in episodes:
             done += h2s(h, m, s)
         all += h2s(h, m, s)
 
-print("{0:4d}:{1:02d}:{2:02d}".format(*s2h(done)))
-print("{0:4d}:{1:02d}:{2:02d}".format(*s2h(all)))
-print("{:3d}%".format(int(round((done/all) * 100, 0))))
+print("{0}days{1:3}:{2:02d}:{3:02d}".format(*s2d(done)))
+print("{0}days{1:3}:{2:02d}:{3:02d}".format(*s2d(all)))
+print("{:13d}%".format(int(round((done/all) * 100, 0))))
